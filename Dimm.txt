@@ -2613,5 +2613,3 @@
 		50 Study Time
 		50 Temportalizer
 		50 Hole in the Now
-	[BasicSlot(0)]
-	
