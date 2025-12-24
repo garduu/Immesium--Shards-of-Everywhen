@@ -2349,4 +2349,269 @@
 	        }
 	    }
 	]
-	[RareSlot(1 
+	[RareSlot(1)]
+		30 Double Ptrouble
+		30 Dark Variant
+		30 Second Era Laborers
+		30 Spikestrip Zeppelin
+		30 Wanderers of Eras Uncharted
+		30 Unchanging One
+		30 Timeshatter Psyren
+		30 Chronostaller
+		30 Doubletimer
+		30 Demanding Mentor
+		30 Veri, Fifth Era Timemapper
+		30 Search Through Time
+		30 Fragment of Multitudes
+		30 Exploring the Convergence
+		30 Unreliable Memory
+		30 Bollar, Seam Ripper
+		30 Scourge of Ancient Seas
+		30 Hournado
+		30 Still the Sands
+		30 Delay
+		30 Lost Knowledge Returns
+		30 All-Era Amalgam
+		30 Eras Tour Guide
+		30 Algier, Seconds to None
+		30 Erase From History
+		30 A Darkness Beyond Time
+		30 Our End is Inevitable
+		30 They Break Through Time
+		30 Mage of the Broken Hourglass
+		30 Doctor of Gigawatts
+		30 Unwavering Fist
+		30 Anytime Killer
+		30 Triple Barrel
+		30 Disaster Becomes Eternal
+		30 Moments Slip By
+		30 Neoceratops
+		30 Zoe, History Seeker
+		30 First Era Separatists
+		30 Snaplodon
+		30 Ever-Lengthening Express
+		30 I Cannot Forget
+		30 Ancient Lands Reemerge
+		30 The Greatest Minds of all Time
+		30 Heed Their Call
+		30 Time to Die
+		30 Embrace New Ways
+		30 Revelation of Supremacy
+		30 Relive the End
+		30 Reject Reality
+		30 Discover the Forgotten
+		30 Siphoner of Seconds
+		30 Autopilot
+		30 Gote, Buzzer Beater
+		30 Urgent Carer
+		30 Bigwheel Mk. VII
+		30 We Will Be Forgotten
+		30 Fixed Point Gate
+		30 Synthetic Mergist
+		30 Where Stories Began
+		30 Bring Down the Ship
+		10 Being in the Between
+		10 A Thousand Lives Lived
+		10 Channeler of Lifetimes
+		10 From One Come Many
+		10 Ansia, Who Let Time Converge
+		10 Explore the Between
+		10 Esia, Overseer of Everywhen
+		10 Gaston, Time on His Hands
+		10 Immesium Convergence
+		10 Rieze, Lord of All Times
+		10 We're Out of Time
+		10 Toma, Hands of the Clock
+		10 The Fighting Will Never Cease
+		10 Aethermerge Byproduct
+		10 The Dead Never Died
+		10 Gergg, Earliest Visionary
+		10 Cling to the Past
+		10 Xintl, the Timekeeper
+		10 Chronoshielded Opus
+		10 Spensa, Eighth Era Renegade
+	[UncommonSlot(3)]
+		50 Esian Fatechanger
+		50 Beloved First Creation
+		50 Wings of the Ephemeral
+		50 Ancient Champion
+		50 Shardwielder
+		50 Soulskimmer
+		50 Seventh Era Commando
+		50 Hunted Rocketeer
+		50 Second Era Dollmaker
+		50 Fourth Era Bird's-Eye
+		50 Happy Hour
+		50 Lost to Time
+		50 March Through Minutes
+		50 Watcher from the Eighth Era
+		50 Veri's Eyes
+		50 Nexus Elemental
+		50 Everyman 2.0
+		50 Fifth Era Bombardier
+		50 Paradox Portent
+		50 Catolossus City-Tipper
+		50 Primal Reversion
+		50 We Cling to False Hopes
+		50 Scare Away
+		50 Ancient Knowledge
+		50 Inflection Point
+		50 Scouting Expedition
+		50 Thing Behind You
+		50 Paradox Digger
+		50 Silkstring Puppeteer
+		50 Doomshard Prophet
+		50 Redying Looper
+		50 Sinister Shardwing
+		50 Skyline Tyrant
+		50 The Best of Us Will Fall
+		50 The Truth is Horrifying
+		50 Modern Malice
+		50 Peer Through the Cracks
+		50 Relativistic Loop
+		50 The Feast Begins
+		50 Mergist Calvaryman
+		50 Raging Separatist
+		50 Shardbeast Sprinter
+		50 Possibility Collector
+		50 Canonball
+		50 Scavenger of Exotic Flavors
+		50 Sky Viper
+		50 Their Power is Beyond Reason
+		50 Bullet Time
+		50 Inciting Whispers
+		50 We Will Relinquish All
+		50 Shadow Lightning
+		50 Variants of Fate
+		50 Fourth Era Separatist
+		50 Shoreseeker
+		50 Timeforge Stabilizers
+		50 Voice for Once-Dead Echoes
+		50 Fifth Era Mechanic
+		50 Second Era Artisan
+		50 First Era Timesavers
+		50 Time Cruncher
+		50 Hunter-Gatherer
+		50 Violence is Their Nature
+		50 There is Evil Within Us
+		50 Road to Somewhen
+		50 Horrifying Strength
+		50 Fae Frolicker
+		50 Separatist Timealigner
+		50 Esia's Faithful
+		50 Dinoback Bowman
+		50 Marchers of Despair
+		50 Infinity Perseverater
+		50 Mergist Mavericks
+		50 Harbinger of Fractures
+		50 Mindlink Mech
+		50 Veri's Ace
+		50 Chronoshield Prototype
+		50 Installed Drivers
+		50 Ejected Automaton
+		50 They Are Everywhen
+		50 Magimech Stonesuit
+		50 Dual Wheeler
+		50 No Rest
+		50 Hole Between Eras
+		50 Live Out Your Life Elsewhen
+		50 Walls Are Not Enough
+		50 Liminal Respite
+		50 First Era Smokeseer
+		50 Separatist Spy
+		50 Shardbeast Swarm
+		50 Past Pilferer
+		50 Loopbound Searcher
+		50 Separatist Strategist
+		50 Bones from the Between
+		50 Syr Iron
+		50 Nullification Plasman
+		50 Ptrained Speedwing
+		50 Fossilized Hedron
+		50 A Place Once Forgotten
+		50 Here Before and After
+		50 Rieze's Testing Chamber
+	[CommonSlot(10)]
+		50 Hare Raiser
+		50 Third Era Marshals
+		50 Seventh Era Rocketeers
+		50 News Van
+		50 Skyfish
+		50 Third Era Clockwatcher
+		50 Mergist Shepherd
+		50 Ever-Growing Flock
+		50 Timejump Tester
+		50 Displaced Ones
+		50 First Era Stalkers
+		50 Crash in the Past
+		50 When Am I
+		50 Flip It and Reverse It
+		50 Regrets Weigh Heavily
+		50 Chronospecimen Collector
+		50 First Era Pterrorizer
+		50 Careless Chronologist
+		50 Temporal Theoretician
+		50 Temportal Technomancer
+		50 Cancrixie
+		50 Ancient Lunadactyl
+		50 First Era Brineosaurus
+		50 Thinking With Portals
+		50 Paradox Prevention
+		50 They Are Watching
+		50 It Knows
+		50 A New Beginning
+		50 Lost Again and Again
+		50 Reschedule
+		50 Timeworn Sharpshot
+		50 Moment Before Disaster
+		50 Tomorrow Eater
+		50 Mergist Scavengers
+		50 Disdainful Separatist
+		50 First Era Doomsayer
+		50 Middle Manager Mergist
+		50 Steampack Pioneer
+		50 Sinuous Shardbeast
+		50 Mysteries Unravel and So Do I
+		50 Defy Fate
+		50 They Were Always Coming
+		50 They Leave Us No Sanctuary
+		50 This is a Bad Time
+		50 Horrible End
+		50 Disgruntled Centurion
+		50 Second Era Gossipers
+		50 Fifth Era Shardjumper
+		50 Enthusiastic Volunteer
+		50 Getoutta Dodge
+		50 Mergist Scoundrel
+		50 Discoverer of Firearms
+		50 Flesh-Prison Escapee
+		50 First Era Herdmaster
+		50 They Know Not of Mercy
+		50 Savage Seconds
+		50 We Discard Reason for Folly
+		50 Steel Meal
+		50 Interchronal Salvo
+		50 Temporal Tag-Team
+		50 Shardbeast Seeker
+		50 Watchvines
+		50 First Era Firemaker
+		50 Ancient Hunter
+		50 Mergist Recon Squad
+		50 Shadowed Separatist
+		50 Thunderhoof Chariot
+		50 Invading Shardbeast
+		50 First Era Mammoth
+		50 Migratiming Spineherd
+		50 Yesterday Never Dies
+		50 Bite Out of Time
+		50 Fear Looms Large
+		50 Downtime
+		50 Harrowing Reformation
+		50 Data Collection Unit
+		50 Tomorrowalker
+		50 Their Strength is Alluring
+		50 Study Time
+		50 Temportalizer
+		50 Hole in the Now
+	[BasicSlot(0)]
+	
