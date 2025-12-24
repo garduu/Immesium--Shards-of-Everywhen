@@ -2,7 +2,7 @@
 <cockatrice_carddatabase version="4">
   <sets>
     <set>
-      <name></name>
+      <name>IMM</name>
       <longname>Immesium: Shards of Everywhen</longname>
       <settype></settype>
     </set>
@@ -11,7 +11,7 @@
 
     <card>
       <name>Being in the Between</name>
-      <set rarity="mythic"></set>
+      <set rarity="mythic">IMM</set>
       <prop>
         <colors>WU</colors>
         <manacost>1WU</manacost>
@@ -27,7 +27,7 @@ Whenever this creature attacks, create a tapped and attacking token that’s a c
     </card>
     <card>
       <name>A Thousand Lives Lived</name>
-      <set rarity="mythic"></set>
+      <set rarity="mythic">IMM</set>
       <prop>
         <colors>UB</colors>
         <manacost>2UB</manacost>
@@ -42,7 +42,7 @@ At the beginning of your end step, aetherize each card exiled with this enchantm
     </card>
     <card>
       <name>Channeler of Lifetimes</name>
-      <set rarity="mythic"></set>
+      <set rarity="mythic">IMM</set>
       <prop>
         <colors>BR</colors>
         <manacost>2BR</manacost>
@@ -59,7 +59,7 @@ RR: This creature gains menace and haste until end of turn.
     </card>
     <card>
       <name>From One Come Many</name>
-      <set rarity="mythic"></set>
+      <set rarity="mythic">IMM</set>
       <prop>
         <colors>RG</colors>
         <manacost>3RG</manacost>
@@ -74,7 +74,7 @@ Revelation spells you cast from your graveyard have cascade.</text>
     </card>
     <card>
       <name>Ansia, Who Let Time Converge</name>
-      <set rarity="mythic"></set>
+      <set rarity="mythic">IMM</set>
       <prop>
         <colors>WR</colors>
         <manacost>RW</manacost>
@@ -89,7 +89,7 @@ If you would aetherize a card or permanent, instead create a token that’s a co
     </card>
     <card>
       <name>Double Ptrouble</name>
-      <set rarity="rare"></set>
+      <set rarity="rare">IMM</set>
       <prop>
         <colors>WU</colors>
         <manacost>3WU</manacost>
@@ -104,7 +104,7 @@ Whenever this creature deals combat damage to a player, draw a card.</text>
     </card>
     <card>
       <name>Dark Variant</name>
-      <set rarity="rare"></set>
+      <set rarity="rare">IMM</set>
       <prop>
         <colors>UB</colors>
         <manacost>2UB</manacost>
@@ -119,7 +119,7 @@ Whenever this creature attacks, you may have it become a copy of target creature
     </card>
     <card>
       <name>Second Era Laborers</name>
-      <set rarity="rare"></set>
+      <set rarity="rare">IMM</set>
       <prop>
         <colors>BR</colors>
         <manacost>1BR</manacost>
@@ -134,7 +134,7 @@ Pay 1 life: Add one mana of any color. Spend this mana only to cast spells from 
     </card>
     <card>
       <name>Spikestrip Zeppelin</name>
-      <set rarity="rare"></set>
+      <set rarity="rare">IMM</set>
       <prop>
         <colors>RG</colors>
         <manacost>1RG</manacost>
@@ -149,7 +149,7 @@ Crew 2 (Tap any number of creatures you control with total power 2 or more: This
     </card>
     <card>
       <name>Wanderers of Eras Uncharted</name>
-      <set rarity="rare"></set>
+      <set rarity="rare">IMM</set>
       <prop>
         <colors>WG</colors>
         <manacost>2GW</manacost>
@@ -164,7 +164,7 @@ Tokens you control have “{T}: Add {W} or {G}.”</text>
     </card>
     <card>
       <name>Unchanging One</name>
-      <set rarity="rare"></set>
+      <set rarity="rare">IMM</set>
       <prop>
         <colors>WB</colors>
         <manacost>WB</manacost>
@@ -179,7 +179,7 @@ WB: Tap target untapped creature. Its controller loses 1 life.</text>
     </card>
     <card>
       <name>Timeshatter Psyren</name>
-      <set rarity="rare"></set>
+      <set rarity="rare">IMM</set>
       <prop>
         <colors>UR</colors>
         <manacost>3UR</manacost>
@@ -194,7 +194,7 @@ Whenever this creature deals combat damage to a player, create that many Shard t
     </card>
     <card>
       <name>Hare Raiser</name>
-      <set rarity="common"></set>
+      <set rarity="common">IMM</set>
       <prop>
         <colors>W</colors>
         <manacost>W</manacost>
@@ -209,7 +209,7 @@ When this creature enters, create a Shard token. (It’s an enchantment with “
     </card>
     <card>
       <name>Third Era Marshals</name>
-      <set rarity="common"></set>
+      <set rarity="common">IMM</set>
       <prop>
         <colors>W</colors>
         <manacost>1W</manacost>
@@ -224,7 +224,7 @@ When this creature enters, put a +1/+1 counter on target creature.</text>
     </card>
     <card>
       <name>Seventh Era Rocketeers</name>
-      <set rarity="common"></set>
+      <set rarity="common">IMM</set>
       <prop>
         <colors>W</colors>
         <manacost>1W</manacost>
@@ -239,7 +239,7 @@ When this creature enters, put a +1/+1 counter on target creature.</text>
     </card>
     <card>
       <name>News Van</name>
-      <set rarity="common"></set>
+      <set rarity="common">IMM</set>
       <prop>
         <colors>W</colors>
         <manacost>1W</manacost>
@@ -253,7 +253,7 @@ Crew 1 (Tap any number of creatures you control with total power 1 or more: This
     </card>
     <card>
       <name>Skyfish</name>
-      <set rarity="common"></set>
+      <set rarity="common">IMM</set>
       <prop>
         <colors>W</colors>
         <manacost>1WW</manacost>
@@ -268,7 +268,7 @@ When this creature enters, return a permanent you control to its owner’s hand.
     </card>
     <card>
       <name>Third Era Clockwatcher</name>
-      <set rarity="common"></set>
+      <set rarity="common">IMM</set>
       <prop>
         <colors>W</colors>
         <manacost>2W</manacost>
@@ -283,7 +283,7 @@ Tap two untapped creatures you control, Exile this card from your graveyard: Dra
     </card>
     <card>
       <name>Mergist Shepherd</name>
-      <set rarity="common"></set>
+      <set rarity="common">IMM</set>
       <prop>
         <colors>W</colors>
         <manacost>2W</manacost>
@@ -298,7 +298,7 @@ Tap two untapped creatures you control, Exile this card from your graveyard: Dra
     </card>
     <card>
       <name>Ever-Growing Flock</name>
-      <set rarity="common"></set>
+      <set rarity="common">IMM</set>
       <prop>
         <colors>W</colors>
         <manacost>3W</manacost>
@@ -313,7 +313,7 @@ Whenever one or more other creatures you control enter, put a +1/+1 counter on t
     </card>
     <card>
       <name>Timejump Tester</name>
-      <set rarity="common"></set>
+      <set rarity="common">IMM</set>
       <prop>
         <colors>W</colors>
         <manacost>3W</manacost>
@@ -327,7 +327,7 @@ Whenever one or more other creatures you control enter, put a +1/+1 counter on t
     </card>
     <card>
       <name>Displaced Ones</name>
-      <set rarity="common"></set>
+      <set rarity="common">IMM</set>
       <prop>
         <colors>W</colors>
         <manacost>3WW</manacost>
@@ -342,7 +342,7 @@ Warp 1W (You may cast this card from your hand for its warp cost. Exile this cre
     </card>
     <card>
       <name>First Era Stalkers</name>
-      <set rarity="common"></set>
+      <set rarity="common">IMM</set>
       <prop>
         <colors>W</colors>
         <manacost>5WW</manacost>
@@ -357,7 +357,7 @@ Vigilance</text>
     </card>
     <card>
       <name>Crash in the Past</name>
-      <set rarity="common"></set>
+      <set rarity="common">IMM</set>
       <prop>
         <colors>W</colors>
         <manacost>1W</manacost>
@@ -373,7 +373,7 @@ Vigilance</text>
     </card>
     <card>
       <name>When Am I</name>
-      <set rarity="common"></set>
+      <set rarity="common">IMM</set>
       <prop>
         <colors>W</colors>
         <manacost>1WW</manacost>
@@ -387,7 +387,7 @@ Warp 1W (You may cast this card from your hand for its warp cost. Exile this cre
     </card>
     <card>
       <name>Flip It and Reverse It</name>
-      <set rarity="common"></set>
+      <set rarity="common">IMM</set>
       <prop>
         <colors>W</colors>
         <manacost>1W</manacost>
@@ -400,7 +400,7 @@ Warp 1W (You may cast this card from your hand for its warp cost. Exile this cre
     </card>
     <card>
       <name>Regrets Weigh Heavily</name>
-      <set rarity="common"></set>
+      <set rarity="common">IMM</set>
       <prop>
         <colors>W</colors>
         <manacost>W</manacost>
@@ -415,7 +415,7 @@ Vigilance</text>
     </card>
     <card>
       <name>Explore the Between</name>
-      <set rarity="mythic"></set>
+      <set rarity="mythic">IMM</set>
       <prop>
         <colors>W</colors>
         <manacost>XWW</manacost>
@@ -429,7 +429,7 @@ Create X 1/1 white Scout creature tokens.</text>
     </card>
     <card>
       <name>Esia, Overseer of Everywhen</name>
-      <set rarity="mythic"></set>
+      <set rarity="mythic">IMM</set>
       <prop>
         <colors>W</colors>
         <manacost>3WW</manacost>
@@ -446,7 +446,7 @@ You may tap creatures you control to pay the cost of an activated ability as tho
     </card>
     <card>
       <name>Chronostaller</name>
-      <set rarity="rare"></set>
+      <set rarity="rare">IMM</set>
       <prop>
         <colors>W</colors>
         <manacost>WW</manacost>
@@ -461,7 +461,7 @@ Activated abilities of nonland permanents cost {1} more to activate.</text>
     </card>
     <card>
       <name>Doubletimer</name>
-      <set rarity="rare"></set>
+      <set rarity="rare">IMM</set>
       <prop>
         <colors>W</colors>
         <manacost>1WW</manacost>
@@ -476,7 +476,7 @@ Whenever this creature deals combat damage to a player, aetherize target creatur
     </card>
     <card>
       <name>Demanding Mentor</name>
-      <set rarity="rare"></set>
+      <set rarity="rare">IMM</set>
       <prop>
         <colors>W</colors>
         <manacost>2W</manacost>
@@ -492,7 +492,7 @@ You may activate abilities of creatures you control as though those creatures ha
     </card>
     <card>
       <name>Veri, Fifth Era Timemapper</name>
-      <set rarity="rare"></set>
+      <set rarity="rare">IMM</set>
       <prop>
         <colors>W</colors>
         <manacost>2WW</manacost>
@@ -507,7 +507,7 @@ Whenever this creature attacks, create a 1/1 white Scout creature token. It ente
     </card>
     <card>
       <name>Search Through Time</name>
-      <set rarity="rare"></set>
+      <set rarity="rare">IMM</set>
       <prop>
         <colors>W</colors>
         <manacost>W</manacost>
@@ -520,7 +520,7 @@ Whenever this creature attacks, create a 1/1 white Scout creature token. It ente
     </card>
     <card>
       <name>Fragment of Multitudes</name>
-      <set rarity="rare"></set>
+      <set rarity="rare">IMM</set>
       <prop>
         <colors>W</colors>
         <manacost>2WW</manacost>
@@ -534,7 +534,7 @@ Whenever this creature attacks, create a 1/1 white Scout creature token. It ente
     </card>
     <card>
       <name>Exploring the Convergence</name>
-      <set rarity="rare"></set>
+      <set rarity="rare">IMM</set>
       <prop>
         <colors>W</colors>
         <manacost>3W</manacost>
@@ -550,7 +550,7 @@ III — Tap up to two target creatures.</text>
     </card>
     <card>
       <name>Esian Fatechanger</name>
-      <set rarity="uncommon"></set>
+      <set rarity="uncommon">IMM</set>
       <prop>
         <colors>W</colors>
         <manacost>4W</manacost>
@@ -565,7 +565,7 @@ Whenever you gain life for the first time each turn, create a Shard token. (It�
     </card>
     <card>
       <name>Beloved First Creation</name>
-      <set rarity="uncommon"></set>
+      <set rarity="uncommon">IMM</set>
       <prop>
         <colors>W</colors>
         <manacost>1W</manacost>
@@ -579,7 +579,7 @@ Whenever you gain life for the first time each turn, create a Shard token. (It�
     </card>
     <card>
       <name>Wings of the Ephemeral</name>
-      <set rarity="uncommon"></set>
+      <set rarity="uncommon">IMM</set>
       <prop>
         <colors>W</colors>
         <manacost>2W</manacost>
@@ -594,7 +594,7 @@ Whenever this creature deals combat damage to a player, aetherize it. (To aether
     </card>
     <card>
       <name>Ancient Champion</name>
-      <set rarity="uncommon"></set>
+      <set rarity="uncommon">IMM</set>
       <prop>
         <colors>W</colors>
         <manacost>2W</manacost>
@@ -610,7 +610,7 @@ Spirited (When this creature enters, you may activate one of its activated abili
     </card>
     <card>
       <name>Shardwielder</name>
-      <set rarity="uncommon"></set>
+      <set rarity="uncommon">IMM</set>
       <prop>
         <colors>W</colors>
         <manacost>2WW</manacost>
@@ -626,7 +626,7 @@ Activated abilities of noncreature tokens you control cost {1} less to activate.
     </card>
     <card>
       <name>Soulskimmer</name>
-      <set rarity="uncommon"></set>
+      <set rarity="uncommon">IMM</set>
       <prop>
         <colors>W</colors>
         <manacost>3WW</manacost>
@@ -641,7 +641,7 @@ Crew X, where X is the total mana value of cards exiled with this Vehicle. (You 
     </card>
     <card>
       <name>Seventh Era Commando</name>
-      <set rarity="uncommon"></set>
+      <set rarity="uncommon">IMM</set>
       <prop>
         <colors>W</colors>
         <manacost>W</manacost>
@@ -656,7 +656,7 @@ This creature enters tapped if no mana was spent to cast it.</text>
     </card>
     <card>
       <name>Hunted Rocketeer</name>
-      <set rarity="uncommon"></set>
+      <set rarity="uncommon">IMM</set>
       <prop>
         <colors>W</colors>
         <manacost>5W</manacost>
@@ -671,7 +671,7 @@ When this creature enters, create two 3/3 green Dinosaur creature tokens.</text>
     </card>
     <card>
       <name>Second Era Dollmaker</name>
-      <set rarity="uncommon"></set>
+      <set rarity="uncommon">IMM</set>
       <prop>
         <colors>W</colors>
         <manacost>3W</manacost>
@@ -687,7 +687,7 @@ When this creature enters, create two 3/3 green Dinosaur creature tokens.</text>
     </card>
     <card>
       <name>Fourth Era Bird&apos;s-Eye</name>
-      <set rarity="uncommon"></set>
+      <set rarity="uncommon">IMM</set>
       <prop>
         <colors>W</colors>
         <manacost>4WW</manacost>
@@ -703,7 +703,7 @@ Warp 1W (You may cast this card from your hand for its warp cost. Exile this cre
     </card>
     <card>
       <name>Happy Hour</name>
-      <set rarity="uncommon"></set>
+      <set rarity="uncommon">IMM</set>
       <prop>
         <colors>W</colors>
         <manacost>1WW</manacost>
@@ -716,7 +716,7 @@ Warp 1W (You may cast this card from your hand for its warp cost. Exile this cre
     </card>
     <card>
       <name>Lost to Time</name>
-      <set rarity="uncommon"></set>
+      <set rarity="uncommon">IMM</set>
       <prop>
         <colors>W</colors>
         <manacost>2W</manacost>
@@ -730,7 +730,7 @@ Exile target creature. Its controller creates a Shard token if less than three m
     </card>
     <card>
       <name>March Through Minutes</name>
-      <set rarity="uncommon"></set>
+      <set rarity="uncommon">IMM</set>
       <prop>
         <colors>W</colors>
         <manacost>W</manacost>
@@ -745,7 +745,7 @@ Exile target creature. Its controller creates a Shard token if less than three m
     </card>
     <card>
       <name>Chronospecimen Collector</name>
-      <set rarity="common"></set>
+      <set rarity="common">IMM</set>
       <prop>
         <colors>U</colors>
         <manacost>1U</manacost>
@@ -760,7 +760,7 @@ As long as you created a token this turn, this creature can attack as though it 
     </card>
     <card>
       <name>First Era Pterrorizer</name>
-      <set rarity="common"></set>
+      <set rarity="common">IMM</set>
       <prop>
         <colors>U</colors>
         <manacost>2U</manacost>
@@ -775,7 +775,7 @@ This creature gets +1/+1 as long as you control a nonland permanent with an acti
     </card>
     <card>
       <name>Careless Chronologist</name>
-      <set rarity="common"></set>
+      <set rarity="common">IMM</set>
       <prop>
         <colors>U</colors>
         <manacost>2U</manacost>
@@ -790,7 +790,7 @@ Sacrifice this creature: Draw a card. Activate only as a sorcery.</text>
     </card>
     <card>
       <name>Temporal Theoretician</name>
-      <set rarity="common"></set>
+      <set rarity="common">IMM</set>
       <prop>
         <colors>U</colors>
         <manacost>1U</manacost>
@@ -805,7 +805,7 @@ Sacrifice this creature: Draw a card. Activate only as a sorcery.</text>
     </card>
     <card>
       <name>Temportal Technomancer</name>
-      <set rarity="common"></set>
+      <set rarity="common">IMM</set>
       <prop>
         <colors>U</colors>
         <manacost>2U</manacost>
@@ -820,7 +820,7 @@ Exhaust — {2}: Aetherize target creature you control. Put a +1/+1 counter on t
     </card>
     <card>
       <name>Cancrixie</name>
-      <set rarity="common"></set>
+      <set rarity="common">IMM</set>
       <prop>
         <colors>U</colors>
         <manacost>3U</manacost>
@@ -836,7 +836,7 @@ Spirited (When this creature enters, you may activate one of its activated abili
     </card>
     <card>
       <name>Ancient Lunadactyl</name>
-      <set rarity="common"></set>
+      <set rarity="common">IMM</set>
       <prop>
         <colors>U</colors>
         <manacost>4U</manacost>
@@ -851,7 +851,7 @@ Whenever another creature or token you control enters, this creature gains vigil
     </card>
     <card>
       <name>First Era Brineosaurus</name>
-      <set rarity="common"></set>
+      <set rarity="common">IMM</set>
       <prop>
         <colors>U</colors>
         <manacost>4UU</manacost>
@@ -866,7 +866,7 @@ Warp 1UU (You may cast this card from your hand for its warp cost. Exile this cr
     </card>
     <card>
       <name>Thinking With Portals</name>
-      <set rarity="common"></set>
+      <set rarity="common">IMM</set>
       <prop>
         <colors>U</colors>
         <manacost>U</manacost>
@@ -880,7 +880,7 @@ Exile target creature. Return it to the battlefield under its owner’s control 
     </card>
     <card>
       <name>Paradox Prevention</name>
-      <set rarity="common"></set>
+      <set rarity="common">IMM</set>
       <prop>
         <colors>U</colors>
         <manacost>1U</manacost>
@@ -894,7 +894,7 @@ Exile target creature. Return it to the battlefield under its owner’s control 
     </card>
     <card>
       <name>They Are Watching</name>
-      <set rarity="common"></set>
+      <set rarity="common">IMM</set>
       <prop>
         <colors>U</colors>
         <manacost>U</manacost>
@@ -909,7 +909,7 @@ Ward {2}</text>
     </card>
     <card>
       <name>It Knows</name>
-      <set rarity="common"></set>
+      <set rarity="common">IMM</set>
       <prop>
         <colors>U</colors>
         <manacost>3U</manacost>
@@ -923,7 +923,7 @@ Coalesce 5UU (You may cast this from your graveyard for 5UU. If you do, it enter
     </card>
     <card>
       <name>A New Beginning</name>
-      <set rarity="common"></set>
+      <set rarity="common">IMM</set>
       <prop>
         <colors>U</colors>
         <manacost>U</manacost>
@@ -937,7 +937,7 @@ Enchanted creature loses all abilities and is a Citizen with base power and toug
     </card>
     <card>
       <name>Lost Again and Again</name>
-      <set rarity="common"></set>
+      <set rarity="common">IMM</set>
       <prop>
         <colors>U</colors>
         <manacost>3U</manacost>
@@ -950,7 +950,7 @@ Enchanted creature loses all abilities and is a Citizen with base power and toug
     </card>
     <card>
       <name>Reschedule</name>
-      <set rarity="common"></set>
+      <set rarity="common">IMM</set>
       <prop>
         <colors>U</colors>
         <manacost>1U</manacost>
@@ -965,7 +965,7 @@ Enchanted creature loses all abilities and is a Citizen with base power and toug
     </card>
     <card>
       <name>Gaston, Time on His Hands</name>
-      <set rarity="mythic"></set>
+      <set rarity="mythic">IMM</set>
       <prop>
         <colors>U</colors>
         <manacost>2UU</manacost>
@@ -981,7 +981,7 @@ If you would create one or more tokens, instead create that many of those tokens
     </card>
     <card>
       <name>Immesium Convergence</name>
-      <set rarity="mythic"></set>
+      <set rarity="mythic">IMM</set>
       <prop>
         <colors>U</colors>
         <manacost>4UUUU</manacost>
@@ -994,7 +994,7 @@ If you would create one or more tokens, instead create that many of those tokens
     </card>
     <card>
       <name>Unreliable Memory</name>
-      <set rarity="rare"></set>
+      <set rarity="rare">IMM</set>
       <prop>
         <colors>U</colors>
         <manacost>1U</manacost>
@@ -1009,7 +1009,7 @@ If you would create one or more tokens, instead create that many of those tokens
     </card>
     <card>
       <name>Bollar, Seam Ripper</name>
-      <set rarity="rare"></set>
+      <set rarity="rare">IMM</set>
       <prop>
         <colors>U</colors>
         <manacost>2UU</manacost>
@@ -1025,7 +1025,7 @@ Warp 1U (You may cast this card from your hand for its warp cost. Exile this cre
     </card>
     <card>
       <name>Scourge of Ancient Seas</name>
-      <set rarity="rare"></set>
+      <set rarity="rare">IMM</set>
       <prop>
         <colors>U</colors>
         <manacost>4UU</manacost>
@@ -1042,7 +1042,7 @@ Warp 1U (You may cast this card from your hand for its warp cost. Exile this cre
     </card>
     <card>
       <name>Hournado</name>
-      <set rarity="rare"></set>
+      <set rarity="rare">IMM</set>
       <prop>
         <colors>U</colors>
         <manacost>1UUU</manacost>
@@ -1055,7 +1055,7 @@ Warp 1U (You may cast this card from your hand for its warp cost. Exile this cre
     </card>
     <card>
       <name>Still the Sands</name>
-      <set rarity="rare"></set>
+      <set rarity="rare">IMM</set>
       <prop>
         <colors>U</colors>
         <manacost>4UU</manacost>
@@ -1069,7 +1069,7 @@ End the turn. (Exile all spells and abilities, including this spell. The player 
     </card>
     <card>
       <name>Delay</name>
-      <set rarity="rare"></set>
+      <set rarity="rare">IMM</set>
       <prop>
         <colors>U</colors>
         <manacost>1U</manacost>
@@ -1082,7 +1082,7 @@ End the turn. (Exile all spells and abilities, including this spell. The player 
     </card>
     <card>
       <name>Lost Knowledge Returns</name>
-      <set rarity="rare"></set>
+      <set rarity="rare">IMM</set>
       <prop>
         <colors>U</colors>
         <manacost>1UU</manacost>
@@ -1098,7 +1098,7 @@ III — Each instant and sorcery card in your graveyard gains flashback until en
     </card>
     <card>
       <name>Watcher from the Eighth Era</name>
-      <set rarity="uncommon"></set>
+      <set rarity="uncommon">IMM</set>
       <prop>
         <colors>U</colors>
         <manacost>2U</manacost>
@@ -1113,7 +1113,7 @@ III — Each instant and sorcery card in your graveyard gains flashback until en
     </card>
     <card>
       <name>Veri&apos;s Eyes</name>
-      <set rarity="uncommon"></set>
+      <set rarity="uncommon">IMM</set>
       <prop>
         <colors>U</colors>
         <manacost>1U</manacost>
@@ -1129,7 +1129,7 @@ Spirited (When this creature enters, you may activate one of its activated abili
     </card>
     <card>
       <name>Nexus Elemental</name>
-      <set rarity="uncommon"></set>
+      <set rarity="uncommon">IMM</set>
       <prop>
         <colors>U</colors>
         <manacost>2U</manacost>
@@ -1145,7 +1145,7 @@ When this creature enters, you may change a target of target spell or ability wi
     </card>
     <card>
       <name>Everyman 20</name>
-      <set rarity="uncommon"></set>
+      <set rarity="uncommon">IMM</set>
       <prop>
         <colors>U</colors>
         <manacost>3U</manacost>
@@ -1160,7 +1160,7 @@ Warp 2U (You may cast this card from your hand for its warp cost. Exile this cre
     </card>
     <card>
       <name>Fifth Era Bombardier</name>
-      <set rarity="uncommon"></set>
+      <set rarity="uncommon">IMM</set>
       <prop>
         <colors>U</colors>
         <manacost>2UU</manacost>
@@ -1175,7 +1175,7 @@ Creature tokens you control have flying.</text>
     </card>
     <card>
       <name>Paradox Portent</name>
-      <set rarity="uncommon"></set>
+      <set rarity="uncommon">IMM</set>
       <prop>
         <colors>U</colors>
         <manacost>3UU</manacost>
@@ -1190,7 +1190,7 @@ Whenever you attack, create a Shard token. (It’s an enchantment with “{2}, S
     </card>
     <card>
       <name>Catolossus City-Tipper</name>
-      <set rarity="uncommon"></set>
+      <set rarity="uncommon">IMM</set>
       <prop>
         <colors>U</colors>
         <manacost>5UU</manacost>
@@ -1206,7 +1206,7 @@ Whenever a token you control enters, tap up to one target untapped creature an o
     </card>
     <card>
       <name>Primal Reversion</name>
-      <set rarity="uncommon"></set>
+      <set rarity="uncommon">IMM</set>
       <prop>
         <colors>U</colors>
         <manacost>U</manacost>
@@ -1219,7 +1219,7 @@ Whenever a token you control enters, tap up to one target untapped creature an o
     </card>
     <card>
       <name>We Cling to False Hopes</name>
-      <set rarity="uncommon"></set>
+      <set rarity="uncommon">IMM</set>
       <prop>
         <colors>U</colors>
         <manacost>2U</manacost>
@@ -1234,7 +1234,7 @@ Vigilance</text>
     </card>
     <card>
       <name>Scare Away</name>
-      <set rarity="uncommon"></set>
+      <set rarity="uncommon">IMM</set>
       <prop>
         <colors>U</colors>
         <manacost>2U</manacost>
@@ -1248,7 +1248,7 @@ Return target spell or creature to its owner’s hand.</text>
     </card>
     <card>
       <name>Ancient Knowledge</name>
-      <set rarity="uncommon"></set>
+      <set rarity="uncommon">IMM</set>
       <prop>
         <colors>U</colors>
         <manacost>5UU</manacost>
@@ -1262,7 +1262,7 @@ Draw four cards.</text>
     </card>
     <card>
       <name>Inflection Point</name>
-      <set rarity="uncommon"></set>
+      <set rarity="uncommon">IMM</set>
       <prop>
         <colors>U</colors>
         <manacost>1UU</manacost>
@@ -1275,7 +1275,7 @@ Draw four cards.</text>
     </card>
     <card>
       <name>Scouting Expedition</name>
-      <set rarity="uncommon"></set>
+      <set rarity="uncommon">IMM</set>
       <prop>
         <colors>U</colors>
         <manacost>4U</manacost>
@@ -1288,7 +1288,7 @@ Draw four cards.</text>
     </card>
     <card>
       <name>Timeworn Sharpshot</name>
-      <set rarity="common"></set>
+      <set rarity="common">IMM</set>
       <prop>
         <colors>B</colors>
         <manacost>B</manacost>
@@ -1303,7 +1303,7 @@ Draw four cards.</text>
     </card>
     <card>
       <name>Moment Before Disaster</name>
-      <set rarity="common"></set>
+      <set rarity="common">IMM</set>
       <prop>
         <colors>B</colors>
         <manacost>1B</manacost>
@@ -1317,7 +1317,7 @@ Draw four cards.</text>
     </card>
     <card>
       <name>Tomorrow Eater</name>
-      <set rarity="common"></set>
+      <set rarity="common">IMM</set>
       <prop>
         <colors>B</colors>
         <manacost>1B</manacost>
@@ -1332,7 +1332,7 @@ Draw four cards.</text>
     </card>
     <card>
       <name>Mergist Scavengers</name>
-      <set rarity="common"></set>
+      <set rarity="common">IMM</set>
       <prop>
         <colors>B</colors>
         <manacost>2B</manacost>
@@ -1347,7 +1347,7 @@ Draw four cards.</text>
     </card>
     <card>
       <name>Disdainful Separatist</name>
-      <set rarity="common"></set>
+      <set rarity="common">IMM</set>
       <prop>
         <colors>B</colors>
         <manacost>2B</manacost>
@@ -1362,7 +1362,7 @@ Whenever another creature you control enters, this creature gets +1/+0 until end
     </card>
     <card>
       <name>First Era Doomsayer</name>
-      <set rarity="common"></set>
+      <set rarity="common">IMM</set>
       <prop>
         <colors>B</colors>
         <manacost>4B</manacost>
@@ -1376,7 +1376,7 @@ Whenever another creature you control enters, this creature gets +1/+0 until end
     </card>
     <card>
       <name>Middle Manager Mergist</name>
-      <set rarity="common"></set>
+      <set rarity="common">IMM</set>
       <prop>
         <colors>B</colors>
         <manacost>3B</manacost>
@@ -1390,7 +1390,7 @@ Whenever another creature you control enters, this creature gets +1/+0 until end
     </card>
     <card>
       <name>Steampack Pioneer</name>
-      <set rarity="common"></set>
+      <set rarity="common">IMM</set>
       <prop>
         <colors>B</colors>
         <manacost>3B</manacost>
@@ -1406,7 +1406,7 @@ Discard a card: This creature gains flying until end of turn. Activate only once
     </card>
     <card>
       <name>Sinuous Shardbeast</name>
-      <set rarity="common"></set>
+      <set rarity="common">IMM</set>
       <prop>
         <colors>B</colors>
         <manacost>4BB</manacost>
@@ -1422,7 +1422,7 @@ Warp 1B (You may cast this card from your hand for its warp cost. Exile this cre
     </card>
     <card>
       <name>Mysteries Unravel and So Do I</name>
-      <set rarity="common"></set>
+      <set rarity="common">IMM</set>
       <prop>
         <colors>B</colors>
         <manacost>1B</manacost>
@@ -1436,7 +1436,7 @@ Draw two cards.</text>
     </card>
     <card>
       <name>Defy Fate</name>
-      <set rarity="common"></set>
+      <set rarity="common">IMM</set>
       <prop>
         <colors>B</colors>
         <manacost>1B</manacost>
@@ -1449,7 +1449,7 @@ Draw two cards.</text>
     </card>
     <card>
       <name>They Were Always Coming</name>
-      <set rarity="common"></set>
+      <set rarity="common">IMM</set>
       <prop>
         <colors>B</colors>
         <manacost>B</manacost>
@@ -1464,7 +1464,7 @@ Ward—Pay 2 life.</text>
     </card>
     <card>
       <name>They Leave Us No Sanctuary</name>
-      <set rarity="common"></set>
+      <set rarity="common">IMM</set>
       <prop>
         <colors>B</colors>
         <manacost>2B</manacost>
@@ -1478,7 +1478,7 @@ Coalesce 6B (You may cast this from your graveyard for 6B. If you do, it enters 
     </card>
     <card>
       <name>This is a Bad Time</name>
-      <set rarity="common"></set>
+      <set rarity="common">IMM</set>
       <prop>
         <colors>B</colors>
         <manacost>2B</manacost>
@@ -1491,7 +1491,7 @@ Coalesce 6B (You may cast this from your graveyard for 6B. If you do, it enters 
     </card>
     <card>
       <name>Horrible End</name>
-      <set rarity="common"></set>
+      <set rarity="common">IMM</set>
       <prop>
         <colors>B</colors>
         <manacost>4B</manacost>
@@ -1505,7 +1505,7 @@ Destroy target creature or enchantment you don’t control.</text>
     </card>
     <card>
       <name>Rieze, Lord of All Times</name>
-      <set rarity="mythic"></set>
+      <set rarity="mythic">IMM</set>
       <prop>
         <colors>B</colors>
         <manacost>4BBB</manacost>
@@ -1521,7 +1521,7 @@ When this creature leaves the battlefield, you may cast any number of cards exil
     </card>
     <card>
       <name>We&apos;re Out of Time</name>
-      <set rarity="mythic"></set>
+      <set rarity="mythic">IMM</set>
       <prop>
         <colors>B</colors>
         <manacost>4BB</manacost>
@@ -1535,7 +1535,7 @@ Coalesce BBBBBBBBBB (You may cast this from your graveyard for ten {B}. If you d
     </card>
     <card>
       <name>All-Era Amalgam</name>
-      <set rarity="rare"></set>
+      <set rarity="rare">IMM</set>
       <prop>
         <colors>B</colors>
         <manacost>3BB</manacost>
@@ -1552,7 +1552,7 @@ Escape—2BB, Exile six other cards from graveyards. (You may cast this card fro
     </card>
     <card>
       <name>Eras Tour Guide</name>
-      <set rarity="rare"></set>
+      <set rarity="rare">IMM</set>
       <prop>
         <colors>B</colors>
         <manacost>1BB</manacost>
@@ -1567,7 +1567,7 @@ Escape—2BB, Exile six other cards from graveyards. (You may cast this card fro
     </card>
     <card>
       <name>Algier, Seconds to None</name>
-      <set rarity="rare"></set>
+      <set rarity="rare">IMM</set>
       <prop>
         <colors>B</colors>
         <manacost>BB</manacost>
@@ -1582,7 +1582,7 @@ During your turn, you may cast cards exiled with Algier. Mana of any type can be
     </card>
     <card>
       <name>Erase From History</name>
-      <set rarity="rare"></set>
+      <set rarity="rare">IMM</set>
       <prop>
         <colors>B</colors>
         <manacost>2BB</manacost>
@@ -1595,7 +1595,7 @@ During your turn, you may cast cards exiled with Algier. Mana of any type can be
     </card>
     <card>
       <name>A Darkness Beyond Time</name>
-      <set rarity="rare"></set>
+      <set rarity="rare">IMM</set>
       <prop>
         <colors>B</colors>
         <manacost>3BBB</manacost>
@@ -1613,7 +1613,7 @@ Warp 1BB (You may cast this card from your hand for its warp cost. Exile this cr
     </card>
     <card>
       <name>Our End is Inevitable</name>
-      <set rarity="rare"></set>
+      <set rarity="rare">IMM</set>
       <prop>
         <colors>B</colors>
         <manacost>4BB</manacost>
@@ -1627,7 +1627,7 @@ Coalesce 6BBBB (You may cast this from your graveyard for 6BBBB. If you do, it e
     </card>
     <card>
       <name>They Break Through Time</name>
-      <set rarity="rare"></set>
+      <set rarity="rare">IMM</set>
       <prop>
         <colors>B</colors>
         <manacost>1BB</manacost>
@@ -1643,7 +1643,7 @@ III — Each opponent loses 1 life for each Horror you control.</text>
     </card>
     <card>
       <name>Thing Behind You</name>
-      <set rarity="uncommon"></set>
+      <set rarity="uncommon">IMM</set>
       <prop>
         <colors>B</colors>
         <manacost>B</manacost>
@@ -1658,7 +1658,7 @@ You may cast this card from your graveyard for 1B as long as you control a Horro
     </card>
     <card>
       <name>Paradox Digger</name>
-      <set rarity="uncommon"></set>
+      <set rarity="uncommon">IMM</set>
       <prop>
         <colors>B</colors>
         <manacost>1B</manacost>
@@ -1673,7 +1673,7 @@ You may cast this card from your graveyard for 1B as long as you control a Horro
     </card>
     <card>
       <name>Silkstring Puppeteer</name>
-      <set rarity="uncommon"></set>
+      <set rarity="uncommon">IMM</set>
       <prop>
         <colors>B</colors>
         <manacost>1BB</manacost>
@@ -1688,7 +1688,7 @@ You may cast this card from your graveyard for 1B as long as you control a Horro
     </card>
     <card>
       <name>Doomshard Prophet</name>
-      <set rarity="uncommon"></set>
+      <set rarity="uncommon">IMM</set>
       <prop>
         <colors>B</colors>
         <manacost>2BB</manacost>
@@ -1702,7 +1702,7 @@ You may cast this card from your graveyard for 1B as long as you control a Horro
     </card>
     <card>
       <name>Redying Looper</name>
-      <set rarity="uncommon"></set>
+      <set rarity="uncommon">IMM</set>
       <prop>
         <colors>B</colors>
         <manacost>3B</manacost>
@@ -1717,7 +1717,7 @@ Whenever this creature attacks, sacrifice a creature. Return that card from its 
     </card>
     <card>
       <name>Sinister Shardwing</name>
-      <set rarity="uncommon"></set>
+      <set rarity="uncommon">IMM</set>
       <prop>
         <colors>B</colors>
         <manacost>3BB</manacost>
@@ -1733,7 +1733,7 @@ Other Horrors you control have “Ward—Pay 2 life.”</text>
     </card>
     <card>
       <name>Skyline Tyrant</name>
-      <set rarity="uncommon"></set>
+      <set rarity="uncommon">IMM</set>
       <prop>
         <colors>B</colors>
         <manacost>4BB</manacost>
@@ -1749,7 +1749,7 @@ Warp 1BB (You may cast this card from your hand for its warp cost. Exile this cr
     </card>
     <card>
       <name>The Best of Us Will Fall</name>
-      <set rarity="uncommon"></set>
+      <set rarity="uncommon">IMM</set>
       <prop>
         <colors>B</colors>
         <manacost>2BB</manacost>
@@ -1763,7 +1763,7 @@ Coalesce 6BB (You may cast this from your graveyard for 6BB. If you do, it enter
     </card>
     <card>
       <name>The Truth is Horrifying</name>
-      <set rarity="uncommon"></set>
+      <set rarity="uncommon">IMM</set>
       <prop>
         <colors>B</colors>
         <manacost>BB</manacost>
@@ -1778,7 +1778,7 @@ Trample</text>
     </card>
     <card>
       <name>Modern Malice</name>
-      <set rarity="uncommon"></set>
+      <set rarity="uncommon">IMM</set>
       <prop>
         <colors>B</colors>
         <manacost>B</manacost>
@@ -1791,7 +1791,7 @@ Trample</text>
     </card>
     <card>
       <name>Peer Through the Cracks</name>
-      <set rarity="uncommon"></set>
+      <set rarity="uncommon">IMM</set>
       <prop>
         <colors>B</colors>
         <manacost>1BB</manacost>
@@ -1804,7 +1804,7 @@ Trample</text>
     </card>
     <card>
       <name>Relativistic Loop</name>
-      <set rarity="uncommon"></set>
+      <set rarity="uncommon">IMM</set>
       <prop>
         <colors>B</colors>
         <manacost>5B</manacost>
@@ -1817,7 +1817,7 @@ Trample</text>
     </card>
     <card>
       <name>The Feast Begins</name>
-      <set rarity="uncommon"></set>
+      <set rarity="uncommon">IMM</set>
       <prop>
         <colors>B</colors>
         <manacost>2BB</manacost>
@@ -1830,7 +1830,7 @@ Trample</text>
     </card>
     <card>
       <name>Disgruntled Centurion</name>
-      <set rarity="common"></set>
+      <set rarity="common">IMM</set>
       <prop>
         <colors>R</colors>
         <manacost>R</manacost>
@@ -1844,7 +1844,7 @@ Trample</text>
     </card>
     <card>
       <name>Second Era Gossipers</name>
-      <set rarity="common"></set>
+      <set rarity="common">IMM</set>
       <prop>
         <colors>R</colors>
         <manacost>1R</manacost>
@@ -1859,7 +1859,7 @@ Trample</text>
     </card>
     <card>
       <name>Fifth Era Shardjumper</name>
-      <set rarity="common"></set>
+      <set rarity="common">IMM</set>
       <prop>
         <colors>R</colors>
         <manacost>2R</manacost>
@@ -1874,7 +1874,7 @@ Warp {R} (You may cast this card from your hand for its warp cost. Exile this cr
     </card>
     <card>
       <name>Enthusiastic Volunteer</name>
-      <set rarity="common"></set>
+      <set rarity="common">IMM</set>
       <prop>
         <colors>R</colors>
         <manacost>1R</manacost>
@@ -1888,7 +1888,7 @@ Warp {R} (You may cast this card from your hand for its warp cost. Exile this cr
     </card>
     <card>
       <name>Getoutta Dodge</name>
-      <set rarity="common"></set>
+      <set rarity="common">IMM</set>
       <prop>
         <colors>R</colors>
         <manacost>2R</manacost>
@@ -1902,7 +1902,7 @@ Crew 2 (Tap any number of creatures you control with total power 2 or more: This
     </card>
     <card>
       <name>Mergist Scoundrel</name>
-      <set rarity="common"></set>
+      <set rarity="common">IMM</set>
       <prop>
         <colors>R</colors>
         <manacost>3R</manacost>
@@ -1917,7 +1917,7 @@ Haste</text>
     </card>
     <card>
       <name>Discoverer of Firearms</name>
-      <set rarity="common"></set>
+      <set rarity="common">IMM</set>
       <prop>
         <colors>R</colors>
         <manacost>4R</manacost>
@@ -1933,7 +1933,7 @@ Spirited (When this creature enters, you may activate one of its activated abili
     </card>
     <card>
       <name>Flesh-Prison Escapee</name>
-      <set rarity="common"></set>
+      <set rarity="common">IMM</set>
       <prop>
         <colors>R</colors>
         <manacost>3R</manacost>
@@ -1948,7 +1948,7 @@ Whenever you cast a Horror or Revelation spell, put a +1/+1 counter on this crea
     </card>
     <card>
       <name>First Era Herdmaster</name>
-      <set rarity="common"></set>
+      <set rarity="common">IMM</set>
       <prop>
         <colors>R</colors>
         <manacost>5RR</manacost>
@@ -1963,7 +1963,7 @@ Trample</text>
     </card>
     <card>
       <name>They Know Not of Mercy</name>
-      <set rarity="common"></set>
+      <set rarity="common">IMM</set>
       <prop>
         <colors>R</colors>
         <manacost>R</manacost>
@@ -1978,7 +1978,7 @@ Menace</text>
     </card>
     <card>
       <name>Savage Seconds</name>
-      <set rarity="common"></set>
+      <set rarity="common">IMM</set>
       <prop>
         <colors>R</colors>
         <manacost>2R</manacost>
@@ -1992,7 +1992,7 @@ Create a Shard token. (It’s an enchantment with “{2}, Sacrifice this enchant
     </card>
     <card>
       <name>We Discard Reason for Folly</name>
-      <set rarity="common"></set>
+      <set rarity="common">IMM</set>
       <prop>
         <colors>R</colors>
         <manacost>1R</manacost>
@@ -2007,7 +2007,7 @@ This creature enters tapped.</text>
     </card>
     <card>
       <name>Steel Meal</name>
-      <set rarity="common"></set>
+      <set rarity="common">IMM</set>
       <prop>
         <colors>R</colors>
         <manacost>1R</manacost>
@@ -2022,7 +2022,7 @@ This creature enters tapped.</text>
     </card>
     <card>
       <name>Interchronal Salvo</name>
-      <set rarity="common"></set>
+      <set rarity="common">IMM</set>
       <prop>
         <colors>R</colors>
         <manacost>2R</manacost>
@@ -2035,7 +2035,7 @@ This creature enters tapped.</text>
     </card>
     <card>
       <name>Temporal Tag-Team</name>
-      <set rarity="common"></set>
+      <set rarity="common">IMM</set>
       <prop>
         <colors>R</colors>
         <manacost>4RR</manacost>
@@ -2049,7 +2049,7 @@ Temporal Tag-Team deals 7 damage to target creature or planeswalker.</text>
     </card>
     <card>
       <name>Toma, Hands of the Clock</name>
-      <set rarity="mythic"></set>
+      <set rarity="mythic">IMM</set>
       <prop>
         <colors>R</colors>
         <manacost>3RR</manacost>
@@ -2064,7 +2064,7 @@ Pay ten {R}, {T}, Exile this creature: For each permanent you control, create a 
     </card>
     <card>
       <name>The Fighting Will Never Cease</name>
-      <set rarity="mythic"></set>
+      <set rarity="mythic">IMM</set>
       <prop>
         <colors>R</colors>
         <manacost>2RR</manacost>
@@ -2079,7 +2079,7 @@ Haste</text>
     </card>
     <card>
       <name>Mage of the Broken Hourglass</name>
-      <set rarity="rare"></set>
+      <set rarity="rare">IMM</set>
       <prop>
         <colors>R</colors>
         <manacost>R</manacost>
@@ -2094,7 +2094,7 @@ Whenever you activate an ability of a nonland permanent, if this is the first ti
     </card>
     <card>
       <name>Doctor of Gigawatts</name>
-      <set rarity="rare"></set>
+      <set rarity="rare">IMM</set>
       <prop>
         <colors>R</colors>
         <manacost>2R</manacost>
@@ -2110,7 +2110,7 @@ Warp 1R (You may cast this card from your hand for its warp cost. Exile this cre
     </card>
     <card>
       <name>Unwavering Fist</name>
-      <set rarity="rare"></set>
+      <set rarity="rare">IMM</set>
       <prop>
         <colors>R</colors>
         <manacost>1R</manacost>
@@ -2125,7 +2125,7 @@ Warp 1R (You may cast this card from your hand for its warp cost. Exile this cre
     </card>
     <card>
       <name>Anytime Killer</name>
-      <set rarity="rare"></set>
+      <set rarity="rare">IMM</set>
       <prop>
         <colors>R</colors>
         <manacost>3RR</manacost>
@@ -2141,7 +2141,7 @@ When this creature enters, it deals 1 damage to each opponent for each creature 
     </card>
     <card>
       <name>Triple Barrel</name>
-      <set rarity="rare"></set>
+      <set rarity="rare">IMM</set>
       <prop>
         <colors>R</colors>
         <manacost>RR</manacost>
@@ -2158,7 +2158,7 @@ Choose one or more —
     </card>
     <card>
       <name>Disaster Becomes Eternal</name>
-      <set rarity="rare"></set>
+      <set rarity="rare">IMM</set>
       <prop>
         <colors>R</colors>
         <manacost>1RR</manacost>
@@ -2172,7 +2172,7 @@ Coalesce 5RR (You may cast this from your graveyard for 5RR. If you do, it enter
     </card>
     <card>
       <name>Moments Slip By</name>
-      <set rarity="rare"></set>
+      <set rarity="rare">IMM</set>
       <prop>
         <colors>R</colors>
         <manacost>3R</manacost>
@@ -2188,7 +2188,7 @@ III — Add RR. Until end of turn, you may play cards exiled with this Saga.
     </card>
     <card>
       <name>Mergist Calvaryman</name>
-      <set rarity="uncommon"></set>
+      <set rarity="uncommon">IMM</set>
       <prop>
         <colors>R</colors>
         <manacost>R</manacost>
@@ -2203,7 +2203,7 @@ III — Add RR. Until end of turn, you may play cards exiled with this Saga.
     </card>
     <card>
       <name>Raging Separatist</name>
-      <set rarity="uncommon"></set>
+      <set rarity="uncommon">IMM</set>
       <prop>
         <colors>R</colors>
         <manacost>1R</manacost>
@@ -2218,7 +2218,7 @@ III — Add RR. Until end of turn, you may play cards exiled with this Saga.
     </card>
     <card>
       <name>Shardbeast Sprinter</name>
-      <set rarity="uncommon"></set>
+      <set rarity="uncommon">IMM</set>
       <prop>
         <colors>R</colors>
         <manacost>2RR</manacost>
@@ -2234,7 +2234,7 @@ Warp 2R (You may cast this card from your hand for its warp cost. Exile this cre
     </card>
     <card>
       <name>Possibility Collector</name>
-      <set rarity="uncommon"></set>
+      <set rarity="uncommon">IMM</set>
       <prop>
         <colors>R</colors>
         <manacost>2R</manacost>
@@ -2248,7 +2248,7 @@ Warp 2R (You may cast this card from your hand for its warp cost. Exile this cre
     </card>
     <card>
       <name>Canonball</name>
-      <set rarity="uncommon"></set>
+      <set rarity="uncommon">IMM</set>
       <prop>
         <colors>R</colors>
         <manacost>4R</manacost>
@@ -2263,7 +2263,7 @@ Crew 2 (Tap any number of creatures you control with total power 2 or more: This
     </card>
     <card>
       <name>Scavenger of Exotic Flavors</name>
-      <set rarity="uncommon"></set>
+      <set rarity="uncommon">IMM</set>
       <prop>
         <colors>R</colors>
         <manacost>4RR</manacost>
@@ -2278,7 +2278,7 @@ This creature enters with a +1/+1 counter on it if you control a nonland permane
     </card>
     <card>
       <name>Sky Viper</name>
-      <set rarity="uncommon"></set>
+      <set rarity="uncommon">IMM</set>
       <prop>
         <colors>R</colors>
         <manacost>1RR</manacost>
@@ -2293,7 +2293,7 @@ Spells you cast from anywhere other than your hand cost {1} less to cast.</text>
     </card>
     <card>
       <name>Their Power is Beyond Reason</name>
-      <set rarity="uncommon"></set>
+      <set rarity="uncommon">IMM</set>
       <prop>
         <colors>R</colors>
         <manacost>1R</manacost>
@@ -2308,7 +2308,7 @@ This creature enters tapped if it’s not your turn.</text>
     </card>
     <card>
       <name>Bullet Time</name>
-      <set rarity="uncommon"></set>
+      <set rarity="uncommon">IMM</set>
       <prop>
         <colors>R</colors>
         <manacost>2R</manacost>
@@ -2322,7 +2322,7 @@ Bullet Time deals 3 damage to any target.</text>
     </card>
     <card>
       <name>Inciting Whispers</name>
-      <set rarity="uncommon"></set>
+      <set rarity="uncommon">IMM</set>
       <prop>
         <colors>R</colors>
         <manacost>2RR</manacost>
@@ -2336,7 +2336,7 @@ Gain control of target creature until end of turn. Untap it. It gains haste unti
     </card>
     <card>
       <name>We Will Relinquish All</name>
-      <set rarity="uncommon"></set>
+      <set rarity="uncommon">IMM</set>
       <prop>
         <colors>R</colors>
         <manacost>1RR</manacost>
@@ -2350,7 +2350,7 @@ Coalesce 2RR (You may cast this from your graveyard for 2RR. If you do, it enter
     </card>
     <card>
       <name>Shadow Lightning</name>
-      <set rarity="uncommon"></set>
+      <set rarity="uncommon">IMM</set>
       <prop>
         <colors>R</colors>
         <manacost>3RR</manacost>
@@ -2363,7 +2363,7 @@ Coalesce 2RR (You may cast this from your graveyard for 2RR. If you do, it enter
     </card>
     <card>
       <name>Variants of Fate</name>
-      <set rarity="uncommon"></set>
+      <set rarity="uncommon">IMM</set>
       <prop>
         <colors>R</colors>
         <manacost>3R</manacost>
@@ -2376,7 +2376,7 @@ Coalesce 2RR (You may cast this from your graveyard for 2RR. If you do, it enter
     </card>
     <card>
       <name>Shardbeast Seeker</name>
-      <set rarity="common"></set>
+      <set rarity="common">IMM</set>
       <prop>
         <colors>G</colors>
         <manacost>G</manacost>
@@ -2390,7 +2390,7 @@ Coalesce 2RR (You may cast this from your graveyard for 2RR. If you do, it enter
     </card>
     <card>
       <name>Watchvines</name>
-      <set rarity="common"></set>
+      <set rarity="common">IMM</set>
       <prop>
         <colors>G</colors>
         <manacost>1G</manacost>
@@ -2405,7 +2405,7 @@ Other Horror creatures you control have vigilance.</text>
     </card>
     <card>
       <name>First Era Firemaker</name>
-      <set rarity="common"></set>
+      <set rarity="common">IMM</set>
       <prop>
         <colors>G</colors>
         <manacost>2G</manacost>
@@ -2420,7 +2420,7 @@ Other Horror creatures you control have vigilance.</text>
     </card>
     <card>
       <name>Ancient Hunter</name>
-      <set rarity="common"></set>
+      <set rarity="common">IMM</set>
       <prop>
         <colors>G</colors>
         <manacost>1G</manacost>
@@ -2435,7 +2435,7 @@ Exhaust — 5G: Put three +1/+1 counters on this creature. (Activate each exhaus
     </card>
     <card>
       <name>Mergist Recon Squad</name>
-      <set rarity="common"></set>
+      <set rarity="common">IMM</set>
       <prop>
         <colors>G</colors>
         <manacost>2G</manacost>
@@ -2450,7 +2450,7 @@ When this creature enters, mill three cards. You may put a land card from among 
     </card>
     <card>
       <name>Shadowed Separatist</name>
-      <set rarity="common"></set>
+      <set rarity="common">IMM</set>
       <prop>
         <colors>G</colors>
         <manacost>3G</manacost>
@@ -2465,7 +2465,7 @@ Warp 1G (You may cast this card from your hand for its warp cost. Exile this cre
     </card>
     <card>
       <name>Thunderhoof Chariot</name>
-      <set rarity="common"></set>
+      <set rarity="common">IMM</set>
       <prop>
         <colors>G</colors>
         <manacost>3G</manacost>
@@ -2480,7 +2480,7 @@ Crew 3 (Tap any number of creatures you control with total power 3 or more: This
     </card>
     <card>
       <name>Invading Shardbeast</name>
-      <set rarity="common"></set>
+      <set rarity="common">IMM</set>
       <prop>
         <colors>G</colors>
         <manacost>3GG</manacost>
@@ -2495,7 +2495,7 @@ Whenever another Horror you control enters, create a 1/1 white Scout creature to
     </card>
     <card>
       <name>First Era Mammoth</name>
-      <set rarity="common"></set>
+      <set rarity="common">IMM</set>
       <prop>
         <colors>G</colors>
         <manacost>4GG</manacost>
@@ -2509,7 +2509,7 @@ Whenever another Horror you control enters, create a 1/1 white Scout creature to
     </card>
     <card>
       <name>Migratiming Spineherd</name>
-      <set rarity="common"></set>
+      <set rarity="common">IMM</set>
       <prop>
         <colors>G</colors>
         <manacost>6GG</manacost>
@@ -2524,7 +2524,7 @@ Exhaust — Tap three untapped creatures you control: Put a trample counter on t
     </card>
     <card>
       <name>Yesterday Never Dies</name>
-      <set rarity="common"></set>
+      <set rarity="common">IMM</set>
       <prop>
         <colors>G</colors>
         <manacost>G</manacost>
@@ -2539,7 +2539,7 @@ Trample</text>
     </card>
     <card>
       <name>Bite Out of Time</name>
-      <set rarity="common"></set>
+      <set rarity="common">IMM</set>
       <prop>
         <colors>G</colors>
         <manacost>3G</manacost>
@@ -2553,7 +2553,7 @@ Target creature you control gets +2/+0 until end of turn. It deals damage equal 
     </card>
     <card>
       <name>Fear Looms Large</name>
-      <set rarity="common"></set>
+      <set rarity="common">IMM</set>
       <prop>
         <colors>G</colors>
         <manacost>1G</manacost>
@@ -2567,7 +2567,7 @@ Coalesce 7G (You may cast this from your graveyard for 7G. If you do, it enters 
     </card>
     <card>
       <name>Downtime</name>
-      <set rarity="common"></set>
+      <set rarity="common">IMM</set>
       <prop>
         <colors>G</colors>
         <manacost>2G</manacost>
@@ -2581,7 +2581,7 @@ Coalesce 7G (You may cast this from your graveyard for 7G. If you do, it enters 
     </card>
     <card>
       <name>Harrowing Reformation</name>
-      <set rarity="common"></set>
+      <set rarity="common">IMM</set>
       <prop>
         <colors>G</colors>
         <manacost>2G</manacost>
@@ -2594,7 +2594,7 @@ Coalesce 7G (You may cast this from your graveyard for 7G. If you do, it enters 
     </card>
     <card>
       <name>Aethermerge Byproduct</name>
-      <set rarity="mythic"></set>
+      <set rarity="mythic">IMM</set>
       <prop>
         <colors>G</colors>
         <manacost>3GG</manacost>
@@ -2610,7 +2610,7 @@ This creature enters with three +1/+1 counters on it.
     </card>
     <card>
       <name>The Dead Never Died</name>
-      <set rarity="mythic"></set>
+      <set rarity="mythic">IMM</set>
       <prop>
         <colors>G</colors>
         <manacost>XGG</manacost>
@@ -2625,7 +2625,7 @@ This creature enters with twice X +1/+1 counters on it.</text>
     </card>
     <card>
       <name>Neoceratops</name>
-      <set rarity="rare"></set>
+      <set rarity="rare">IMM</set>
       <prop>
         <colors>G</colors>
         <manacost>1G</manacost>
@@ -2640,7 +2640,7 @@ This creature enters with twice X +1/+1 counters on it.</text>
     </card>
     <card>
       <name>Zoe, History Seeker</name>
-      <set rarity="rare"></set>
+      <set rarity="rare">IMM</set>
       <prop>
         <colors>G</colors>
         <manacost>GGG</manacost>
@@ -2657,7 +2657,7 @@ Whenever you play a card from anywhere other than your hand, mill a card and put
     </card>
     <card>
       <name>First Era Separatists</name>
-      <set rarity="rare"></set>
+      <set rarity="rare">IMM</set>
       <prop>
         <colors>G</colors>
         <manacost>2G</manacost>
@@ -2673,7 +2673,7 @@ Whenever you play a card from anywhere other than your hand, mill a card and put
     </card>
     <card>
       <name>Snaplodon</name>
-      <set rarity="rare"></set>
+      <set rarity="rare">IMM</set>
       <prop>
         <colors>G</colors>
         <manacost>2GG</manacost>
@@ -2689,7 +2689,7 @@ Tokens you control enter untapped.</text>
     </card>
     <card>
       <name>Ever-Lengthening Express</name>
-      <set rarity="rare"></set>
+      <set rarity="rare">IMM</set>
       <prop>
         <colors>G</colors>
         <manacost>3GG</manacost>
@@ -2704,7 +2704,7 @@ Crew 2 (Tap any number of creatures you control with total power 2 or more: This
     </card>
     <card>
       <name>I Cannot Forget</name>
-      <set rarity="rare"></set>
+      <set rarity="rare">IMM</set>
       <prop>
         <colors>G</colors>
         <manacost>2GGG</manacost>
@@ -2719,7 +2719,7 @@ When this creature enters, you may shuffle your graveyard into your library.</te
     </card>
     <card>
       <name>Ancient Lands Reemerge</name>
-      <set rarity="rare"></set>
+      <set rarity="rare">IMM</set>
       <prop>
         <colors>G</colors>
         <manacost>3G</manacost>
@@ -2735,7 +2735,7 @@ III — For each land card exiled with this Saga, create a tapped token that’s
     </card>
     <card>
       <name>Fourth Era Separatist</name>
-      <set rarity="uncommon"></set>
+      <set rarity="uncommon">IMM</set>
       <prop>
         <colors>G</colors>
         <manacost>1G</manacost>
@@ -2749,7 +2749,7 @@ III — For each land card exiled with this Saga, create a tapped token that’s
     </card>
     <card>
       <name>Shoreseeker</name>
-      <set rarity="uncommon"></set>
+      <set rarity="uncommon">IMM</set>
       <prop>
         <colors>G</colors>
         <manacost>1G</manacost>
@@ -2763,7 +2763,7 @@ Crew 6 (Tap any number of creatures you control with total power 6 or more: This
     </card>
     <card>
       <name>Timeforge Stabilizers</name>
-      <set rarity="uncommon"></set>
+      <set rarity="uncommon">IMM</set>
       <prop>
         <colors>G</colors>
         <manacost>1GG</manacost>
@@ -2777,7 +2777,7 @@ Crew 6 (Tap any number of creatures you control with total power 6 or more: This
     </card>
     <card>
       <name>Voice for Once-Dead Echoes</name>
-      <set rarity="uncommon"></set>
+      <set rarity="uncommon">IMM</set>
       <prop>
         <colors>G</colors>
         <manacost>2G</manacost>
@@ -2791,7 +2791,7 @@ Crew 6 (Tap any number of creatures you control with total power 6 or more: This
     </card>
     <card>
       <name>Fifth Era Mechanic</name>
-      <set rarity="uncommon"></set>
+      <set rarity="uncommon">IMM</set>
       <prop>
         <colors>G</colors>
         <manacost>2GG</manacost>
@@ -2806,7 +2806,7 @@ Tap two untapped creatures you control, Exile this card from your graveyard: Cre
     </card>
     <card>
       <name>Second Era Artisan</name>
-      <set rarity="uncommon"></set>
+      <set rarity="uncommon">IMM</set>
       <prop>
         <colors>G</colors>
         <manacost>4G</manacost>
@@ -2821,7 +2821,7 @@ Whenever you create one or more tokens, put a +1/+1 counter on this creature.</t
     </card>
     <card>
       <name>First Era Timesavers</name>
-      <set rarity="uncommon"></set>
+      <set rarity="uncommon">IMM</set>
       <prop>
         <colors>G</colors>
         <manacost>3G</manacost>
@@ -2837,7 +2837,7 @@ Spirited (When this creature enters, you may activate one of its activated abili
     </card>
     <card>
       <name>Time Cruncher</name>
-      <set rarity="uncommon"></set>
+      <set rarity="uncommon">IMM</set>
       <prop>
         <colors>G</colors>
         <manacost>4GG</manacost>
@@ -2853,7 +2853,7 @@ Warp 3G (You may cast this card from your hand for its warp cost. Exile this cre
     </card>
     <card>
       <name>Hunter-Gatherer</name>
-      <set rarity="uncommon"></set>
+      <set rarity="uncommon">IMM</set>
       <prop>
         <colors>G</colors>
         <manacost>9GG</manacost>
@@ -2868,7 +2868,7 @@ Trample</text>
     </card>
     <card>
       <name>Violence is Their Nature</name>
-      <set rarity="uncommon"></set>
+      <set rarity="uncommon">IMM</set>
       <prop>
         <colors>G</colors>
         <manacost>3GG</manacost>
@@ -2882,7 +2882,7 @@ Coalesce 6GG (You may cast this from your graveyard for 6GG. If you do, it enter
     </card>
     <card>
       <name>There is Evil Within Us</name>
-      <set rarity="uncommon"></set>
+      <set rarity="uncommon">IMM</set>
       <prop>
         <colors>G</colors>
         <manacost>3G</manacost>
@@ -2896,7 +2896,7 @@ Coalesce 4GGG (You may cast this from your graveyard for 4GGG. If you do, it ent
     </card>
     <card>
       <name>Road to Somewhen</name>
-      <set rarity="uncommon"></set>
+      <set rarity="uncommon">IMM</set>
       <prop>
         <colors>G</colors>
         <manacost>3G</manacost>
@@ -2909,7 +2909,7 @@ Coalesce 4GGG (You may cast this from your graveyard for 4GGG. If you do, it ent
     </card>
     <card>
       <name>Horrifying Strength</name>
-      <set rarity="uncommon"></set>
+      <set rarity="uncommon">IMM</set>
       <prop>
         <colors>G</colors>
         <manacost>4G</manacost>
@@ -2922,7 +2922,7 @@ Coalesce 4GGG (You may cast this from your graveyard for 4GGG. If you do, it ent
     </card>
     <card>
       <name>The Greatest Minds of all Time</name>
-      <set rarity="rare"></set>
+      <set rarity="rare">IMM</set>
       <prop>
         <colors>WU</colors>
         <manacost>2WU</manacost>
@@ -2937,7 +2937,7 @@ When you cycle this card, you gain 1 life and create a Shard token. (It’s an e
     </card>
     <card>
       <name>Heed Their Call</name>
-      <set rarity="rare"></set>
+      <set rarity="rare">IMM</set>
       <prop>
         <colors>UB</colors>
         <manacost>4UB</manacost>
@@ -2952,7 +2952,7 @@ When you cycle this card, you gain 1 life and create a Shard token. (It’s an e
     </card>
     <card>
       <name>Time to Die</name>
-      <set rarity="rare"></set>
+      <set rarity="rare">IMM</set>
       <prop>
         <colors>BR</colors>
         <manacost>1BR</manacost>
@@ -2966,7 +2966,7 @@ Time to Die deals 4 damage to target creature. When that creature dies this turn
     </card>
     <card>
       <name>Embrace New Ways</name>
-      <set rarity="rare"></set>
+      <set rarity="rare">IMM</set>
       <prop>
         <colors>RG</colors>
         <manacost>3RG</manacost>
@@ -2980,7 +2980,7 @@ Discard your hand, then draw cards equal to the greatest power among creatures y
     </card>
     <card>
       <name>Revelation of Supremacy</name>
-      <set rarity="rare"></set>
+      <set rarity="rare">IMM</set>
       <prop>
         <colors>WG</colors>
         <manacost>1GW</manacost>
@@ -2994,7 +2994,7 @@ Flashback 2GW (You may cast this card from your graveyard for its flashback cost
     </card>
     <card>
       <name>Relive the End</name>
-      <set rarity="rare"></set>
+      <set rarity="rare">IMM</set>
       <prop>
         <colors>WB</colors>
         <manacost>XXWB</manacost>
@@ -3007,7 +3007,7 @@ Flashback 2GW (You may cast this card from your graveyard for its flashback cost
     </card>
     <card>
       <name>Reject Reality</name>
-      <set rarity="rare"></set>
+      <set rarity="rare">IMM</set>
       <prop>
         <colors>UR</colors>
         <manacost>1UR</manacost>
@@ -3020,7 +3020,7 @@ Flashback 2GW (You may cast this card from your graveyard for its flashback cost
     </card>
     <card>
       <name>Discover the Forgotten</name>
-      <set rarity="rare"></set>
+      <set rarity="rare">IMM</set>
       <prop>
         <colors>UG</colors>
         <manacost>3GU</manacost>
@@ -3033,7 +3033,7 @@ Flashback 2GW (You may cast this card from your graveyard for its flashback cost
     </card>
     <card>
       <name>Siphoner of Seconds</name>
-      <set rarity="rare"></set>
+      <set rarity="rare">IMM</set>
       <prop>
         <colors>BG</colors>
         <manacost>2BG</manacost>
@@ -3049,7 +3049,7 @@ When this creature enters, each opponent loses 3 life and you gain 3 life.</text
     </card>
     <card>
       <name>Autopilot</name>
-      <set rarity="rare"></set>
+      <set rarity="rare">IMM</set>
       <prop>
         <colors>WR</colors>
         <manacost>1RW</manacost>
@@ -3064,7 +3064,7 @@ When you cycle this card, up to one target Vehicle becomes an artifact creature 
     </card>
     <card>
       <name>Fae Frolicker</name>
-      <set rarity="uncommon"></set>
+      <set rarity="uncommon">IMM</set>
       <prop>
         <colors>UR</colors>
         <manacost>1UR</manacost>
@@ -3080,7 +3080,7 @@ Spirited (When this creature enters, you may activate one of its activated abili
     </card>
     <card>
       <name>Separatist Timealigner</name>
-      <set rarity="uncommon"></set>
+      <set rarity="uncommon">IMM</set>
       <prop>
         <colors>WB</colors>
         <manacost>2WB</manacost>
@@ -3095,7 +3095,7 @@ Spirited (When this creature enters, you may activate one of its activated abili
     </card>
     <card>
       <name>Esia&apos;s Faithful</name>
-      <set rarity="uncommon"></set>
+      <set rarity="uncommon">IMM</set>
       <prop>
         <colors>WU</colors>
         <manacost>3WU</manacost>
@@ -3110,7 +3110,7 @@ Whenever another creature you control deals combat damage to a player, you may a
     </card>
     <card>
       <name>Dinoback Bowman</name>
-      <set rarity="uncommon"></set>
+      <set rarity="uncommon">IMM</set>
       <prop>
         <colors>RG</colors>
         <manacost>3RG</manacost>
@@ -3125,7 +3125,7 @@ Whenever another creature you control becomes tapped for the first time during e
     </card>
     <card>
       <name>Marchers of Despair</name>
-      <set rarity="uncommon"></set>
+      <set rarity="uncommon">IMM</set>
       <prop>
         <colors>BR</colors>
         <manacost>1BR</manacost>
@@ -3140,7 +3140,7 @@ Warp BR (You may cast this card from your hand for its warp cost. Exile this cre
     </card>
     <card>
       <name>Infinity Perseverater</name>
-      <set rarity="uncommon"></set>
+      <set rarity="uncommon">IMM</set>
       <prop>
         <colors>UB</colors>
         <manacost>1UB</manacost>
@@ -3155,7 +3155,7 @@ Warp BR (You may cast this card from your hand for its warp cost. Exile this cre
     </card>
     <card>
       <name>Mergist Mavericks</name>
-      <set rarity="uncommon"></set>
+      <set rarity="uncommon">IMM</set>
       <prop>
         <colors>WG</colors>
         <manacost>3GW</manacost>
@@ -3169,7 +3169,7 @@ Warp BR (You may cast this card from your hand for its warp cost. Exile this cre
     </card>
     <card>
       <name>Harbinger of Fractures</name>
-      <set rarity="uncommon"></set>
+      <set rarity="uncommon">IMM</set>
       <prop>
         <colors>BG</colors>
         <manacost>BG</manacost>
@@ -3184,7 +3184,7 @@ Warp BR (You may cast this card from your hand for its warp cost. Exile this cre
     </card>
     <card>
       <name>Mindlink Mech</name>
-      <set rarity="uncommon"></set>
+      <set rarity="uncommon">IMM</set>
       <prop>
         <colors>WR</colors>
         <manacost>2RW</manacost>
@@ -3198,7 +3198,7 @@ Crew 2</text>
     </card>
     <card>
       <name>Veri&apos;s Ace</name>
-      <set rarity="uncommon"></set>
+      <set rarity="uncommon">IMM</set>
       <prop>
         <colors>UG</colors>
         <manacost>1GU</manacost>
@@ -3213,7 +3213,7 @@ Whenever one or more creatures you control deal combat damage to a player, creat
     </card>
     <card>
       <name>Data Collection Unit</name>
-      <set rarity="common"></set>
+      <set rarity="common">IMM</set>
       <prop>
         <colors></colors>
         <manacost>2</manacost>
@@ -3227,7 +3227,7 @@ Whenever one or more creatures you control deal combat damage to a player, creat
     </card>
     <card>
       <name>Tomorrowalker</name>
-      <set rarity="common"></set>
+      <set rarity="common">IMM</set>
       <prop>
         <colors></colors>
         <manacost>4</manacost>
@@ -3241,7 +3241,7 @@ Crew 3 (Tap any number of creatures you control with total power 3 or more: This
     </card>
     <card>
       <name>Their Strength is Alluring</name>
-      <set rarity="common"></set>
+      <set rarity="common">IMM</set>
       <prop>
         <colors></colors>
         <manacost>3</manacost>
@@ -3255,7 +3255,7 @@ Coalesce {9} (You may cast this from your graveyard for {9}. If you do, it enter
     </card>
     <card>
       <name>Study Time</name>
-      <set rarity="common"></set>
+      <set rarity="common">IMM</set>
       <prop>
         <colors></colors>
         <manacost>5</manacost>
@@ -3269,7 +3269,7 @@ Coalesce {9} (You may cast this from your graveyard for {9}. If you do, it enter
     </card>
     <card>
       <name>Temportalizer</name>
-      <set rarity="common"></set>
+      <set rarity="common">IMM</set>
       <prop>
         <colors></colors>
         <manacost>3</manacost>
@@ -3283,7 +3283,7 @@ Exhaust — {T}, Put a stun counter on this artifact: Aetherize target creature 
     </card>
     <card>
       <name>Hole in the Now</name>
-      <set rarity="common"></set>
+      <set rarity="common">IMM</set>
       <prop>
         <colors></colors>
         <manacost>1</manacost>
@@ -3297,7 +3297,7 @@ Exhaust — {T}, Put a stun counter on this artifact: Aetherize target creature 
     </card>
     <card>
       <name>Chronoshield Prototype</name>
-      <set rarity="uncommon"></set>
+      <set rarity="uncommon">IMM</set>
       <prop>
         <colors></colors>
         <manacost>4</manacost>
@@ -3311,7 +3311,7 @@ Exhaust — {T}, Put a stun counter on this artifact: Aetherize target creature 
     </card>
     <card>
       <name>Installed Drivers</name>
-      <set rarity="uncommon"></set>
+      <set rarity="uncommon">IMM</set>
       <prop>
         <colors></colors>
         <manacost>1</manacost>
@@ -3327,7 +3327,7 @@ Cycling {2} ({2}, Discard this card: Draw a card.)</text>
     </card>
     <card>
       <name>Ejected Automaton</name>
-      <set rarity="uncommon"></set>
+      <set rarity="uncommon">IMM</set>
       <prop>
         <colors></colors>
         <manacost>7</manacost>
@@ -3341,7 +3341,7 @@ Cycling {2} ({2}, Discard this card: Draw a card.)</text>
     </card>
     <card>
       <name>They Are Everywhen</name>
-      <set rarity="uncommon"></set>
+      <set rarity="uncommon">IMM</set>
       <prop>
         <colors></colors>
         <manacost>4</manacost>
@@ -3356,7 +3356,7 @@ Trample</text>
     </card>
     <card>
       <name>Magimech Stonesuit</name>
-      <set rarity="uncommon"></set>
+      <set rarity="uncommon">IMM</set>
       <prop>
         <colors></colors>
         <manacost>2</manacost>
@@ -3372,7 +3372,7 @@ Reconfigure {4} ({4}: Attach to target creature you control; or unattach from a 
     </card>
     <card>
       <name>Dual Wheeler</name>
-      <set rarity="uncommon"></set>
+      <set rarity="uncommon">IMM</set>
       <prop>
         <colors></colors>
         <manacost>4</manacost>
@@ -3387,7 +3387,7 @@ Cycling {2}</text>
     </card>
     <card>
       <name>No Rest</name>
-      <set rarity="uncommon"></set>
+      <set rarity="uncommon">IMM</set>
       <prop>
         <colors>W</colors>
         <manacost>2W</manacost>
@@ -3401,7 +3401,7 @@ Coalesce 4W (You may cast this from your graveyard for 4W. If you do, it enters 
     </card>
     <card>
       <name>Hole Between Eras</name>
-      <set rarity="uncommon"></set>
+      <set rarity="uncommon">IMM</set>
       <prop>
         <colors>U</colors>
         <manacost>1U</manacost>
@@ -3416,7 +3416,7 @@ Coalesce 4W (You may cast this from your graveyard for 4W. If you do, it enters 
     </card>
     <card>
       <name>Live Out Your Life Elsewhen</name>
-      <set rarity="uncommon"></set>
+      <set rarity="uncommon">IMM</set>
       <prop>
         <colors>B</colors>
         <manacost>1B</manacost>
@@ -3429,7 +3429,7 @@ Coalesce 4W (You may cast this from your graveyard for 4W. If you do, it enters 
     </card>
     <card>
       <name>Walls Are Not Enough</name>
-      <set rarity="uncommon"></set>
+      <set rarity="uncommon">IMM</set>
       <prop>
         <colors>R</colors>
         <manacost>3R</manacost>
@@ -3443,7 +3443,7 @@ Sacrifice this enchantment: Creatures you control get +1/+0 until end of turn. A
     </card>
     <card>
       <name>Liminal Respite</name>
-      <set rarity="uncommon"></set>
+      <set rarity="uncommon">IMM</set>
       <prop>
         <colors>G</colors>
         <manacost>1GG</manacost>
@@ -3458,7 +3458,7 @@ When this enchantment enters, other permanents you control gain hexproof and ind
     </card>
     <card>
       <name>First Era Smokeseer</name>
-      <set rarity="uncommon"></set>
+      <set rarity="uncommon">IMM</set>
       <prop>
         <colors>WU</colors>
         <manacost>1WU</manacost>
@@ -3475,7 +3475,7 @@ When this enchantment enters, other permanents you control gain hexproof and ind
     </card>
     <card>
       <name>Separatist Spy</name>
-      <set rarity="uncommon"></set>
+      <set rarity="uncommon">IMM</set>
       <prop>
         <colors>UB</colors>
         <manacost>UB</manacost>
@@ -3490,7 +3490,7 @@ This creature has all activated abilities of each other permanent you control th
     </card>
     <card>
       <name>Shardbeast Swarm</name>
-      <set rarity="uncommon"></set>
+      <set rarity="uncommon">IMM</set>
       <prop>
         <colors>BR</colors>
         <manacost>2BR</manacost>
@@ -3505,7 +3505,7 @@ This creature has all activated abilities of each other permanent you control th
     </card>
     <card>
       <name>Past Pilferer</name>
-      <set rarity="uncommon"></set>
+      <set rarity="uncommon">IMM</set>
       <prop>
         <colors>RG</colors>
         <manacost>1RG</manacost>
@@ -3519,7 +3519,7 @@ This creature has all activated abilities of each other permanent you control th
     </card>
     <card>
       <name>Loopbound Searcher</name>
-      <set rarity="uncommon"></set>
+      <set rarity="uncommon">IMM</set>
       <prop>
         <colors>WG</colors>
         <manacost>2GW</manacost>
@@ -3534,7 +3534,7 @@ At the beginning of your upkeep, create a token that’s a copy of a token you c
     </card>
     <card>
       <name>Separatist Strategist</name>
-      <set rarity="uncommon"></set>
+      <set rarity="uncommon">IMM</set>
       <prop>
         <colors>WB</colors>
         <manacost>WB</manacost>
@@ -3548,7 +3548,7 @@ At the beginning of your upkeep, create a token that’s a copy of a token you c
     </card>
     <card>
       <name>Bones from the Between</name>
-      <set rarity="uncommon"></set>
+      <set rarity="uncommon">IMM</set>
       <prop>
         <colors>BG</colors>
         <manacost>6BG</manacost>
@@ -3564,7 +3564,7 @@ This creature must be blocked if able.</text>
     </card>
     <card>
       <name>Syr Iron</name>
-      <set rarity="uncommon"></set>
+      <set rarity="uncommon">IMM</set>
       <prop>
         <colors>UG</colors>
         <manacost>3GU</manacost>
@@ -3579,7 +3579,7 @@ This creature gets +1/+0 for each other permanent you control that’s a creatur
     </card>
     <card>
       <name>Nullification Plasman</name>
-      <set rarity="uncommon"></set>
+      <set rarity="uncommon">IMM</set>
       <prop>
         <colors>UR</colors>
         <manacost>UR</manacost>
@@ -3595,7 +3595,7 @@ This creature gets +1/+0 for each other permanent you control that’s a creatur
     </card>
     <card>
       <name>Ptrained Speedwing</name>
-      <set rarity="uncommon"></set>
+      <set rarity="uncommon">IMM</set>
       <prop>
         <colors>WR</colors>
         <manacost>4RW</manacost>
@@ -3611,7 +3611,7 @@ Tapped creatures you control have exalted. (Whenever a creature you control atta
     </card>
     <card>
       <name>Fossilized Hedron</name>
-      <set rarity="uncommon"></set>
+      <set rarity="uncommon">IMM</set>
       <prop>
         <colors></colors>
         <manacost>3</manacost>
@@ -3626,7 +3626,7 @@ This artifact enters tapped.
     </card>
     <card>
       <name>A Place Once Forgotten</name>
-      <set rarity="uncommon"></set>
+      <set rarity="uncommon">IMM</set>
       <prop>
         <colors></colors>
         <manacost></manacost>
@@ -3641,7 +3641,7 @@ When this land enters, add {C}.
     </card>
     <card>
       <name>Here Before and After</name>
-      <set rarity="uncommon"></set>
+      <set rarity="uncommon">IMM</set>
       <prop>
         <colors></colors>
         <manacost></manacost>
@@ -3656,7 +3656,7 @@ When this land enters, add {C}.
     </card>
     <card>
       <name>Rieze&apos;s Testing Chamber</name>
-      <set rarity="uncommon"></set>
+      <set rarity="uncommon">IMM</set>
       <prop>
         <colors></colors>
         <manacost></manacost>
@@ -3670,7 +3670,7 @@ When this land enters, add {C}.
     </card>
     <card>
       <name>Gote, Buzzer Beater</name>
-      <set rarity="rare"></set>
+      <set rarity="rare">IMM</set>
       <prop>
         <colors>WR</colors>
         <manacost>1RW</manacost>
@@ -3685,7 +3685,7 @@ Whenever this creature attacks, until your next turn, you can’t lose the game 
     </card>
     <card>
       <name>Urgent Carer</name>
-      <set rarity="rare"></set>
+      <set rarity="rare">IMM</set>
       <prop>
         <colors>UG</colors>
         <manacost>1GU</manacost>
@@ -3700,7 +3700,7 @@ Warp GU (You may cast this card from your hand for its warp cost. Exile this cre
     </card>
     <card>
       <name>Bigwheel Mk VII</name>
-      <set rarity="rare"></set>
+      <set rarity="rare">IMM</set>
       <prop>
         <colors></colors>
         <manacost>3</manacost>
@@ -3715,7 +3715,7 @@ Crew 6</text>
     </card>
     <card>
       <name>We Will Be Forgotten</name>
-      <set rarity="rare"></set>
+      <set rarity="rare">IMM</set>
       <prop>
         <colors></colors>
         <manacost>2</manacost>
@@ -3730,7 +3730,7 @@ This creature and other Horrors you control each have annihilator 1. (Whenever t
     </card>
     <card>
       <name>Fixed Point Gate</name>
-      <set rarity="rare"></set>
+      <set rarity="rare">IMM</set>
       <prop>
         <colors></colors>
         <manacost>2</manacost>
@@ -3745,7 +3745,7 @@ As long as a card with the chosen name is on the battlefield, this artifact has 
     </card>
     <card>
       <name>Synthetic Mergist</name>
-      <set rarity="rare"></set>
+      <set rarity="rare">IMM</set>
       <prop>
         <colors></colors>
         <manacost>3</manacost>
@@ -3760,7 +3760,7 @@ When this creature dies, draw a card.</text>
     </card>
     <card>
       <name>Where Stories Began</name>
-      <set rarity="rare"></set>
+      <set rarity="rare">IMM</set>
       <prop>
         <colors></colors>
         <manacost></manacost>
@@ -3773,7 +3773,7 @@ When this creature dies, draw a card.</text>
     </card>
     <card>
       <name>Gergg, Earliest Visionary</name>
-      <set rarity="mythic"></set>
+      <set rarity="mythic">IMM</set>
       <prop>
         <colors>UR</colors>
         <manacost>1UR</manacost>
@@ -3789,7 +3789,7 @@ When this creature dies, draw a card.</text>
     </card>
     <card>
       <name>Cling to the Past</name>
-      <set rarity="mythic"></set>
+      <set rarity="mythic">IMM</set>
       <prop>
         <colors>BG</colors>
         <manacost>XBBGG</manacost>
@@ -3802,7 +3802,7 @@ When this creature dies, draw a card.</text>
     </card>
     <card>
       <name>Xintl, the Timekeeper</name>
-      <set rarity="mythic"></set>
+      <set rarity="mythic">IMM</set>
       <prop>
         <colors>UG</colors>
         <manacost>3GU</manacost>
@@ -3818,7 +3818,7 @@ Shards you control are 2/2 creatures with flying in addition to their other type
     </card>
     <card>
       <name>Chronoshielded Opus</name>
-      <set rarity="mythic"></set>
+      <set rarity="mythic">IMM</set>
       <prop>
         <colors>WG</colors>
         <manacost>4GW</manacost>
@@ -3834,7 +3834,7 @@ Crew 4</text>
     </card>
     <card>
       <name>Spensa, Eighth Era Renegade</name>
-      <set rarity="mythic"></set>
+      <set rarity="mythic">IMM</set>
       <prop>
         <colors>WB</colors>
         <manacost>2WB</manacost>
@@ -3851,7 +3851,7 @@ Crew 4</text>
     </card>
     <card>
       <name>Bring Down the Ship</name>
-      <set rarity="rare"></set>
+      <set rarity="rare">IMM</set>
       <prop>
         <colors>BG</colors>
         <manacost>2BG</manacost>
