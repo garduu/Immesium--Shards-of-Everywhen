@@ -5,7 +5,7 @@
 	        "mana_cost": "{1}{W}{U}",
 	        "type": "Creature — Avatar ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/garduu/Immesium—Shards-of-Everywhen/blob/main/imm-files/Being in the Between.png"
+	            "en": "https://raw.githubusercontent.com/garduu/Immesium—Shards-of-Everywhen/main/imm-files/Being in the Between.png"
 	        }
 	    },
 	    {
@@ -14,7 +14,7 @@
 	        "mana_cost": "{2}{U}{B}",
 	        "type": "Enchantment",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/garduu/Immesium—Shards-of-Everywhen/blob/main/imm-files/A Thousand Lives Lived.png"
+	            "en": "https://raw.githubusercontent.com/garduu/Immesium—Shards-of-Everywhen/main/imm-files/A Thousand Lives Lived.png"
 	        }
 	    },
 	    {
@@ -23,7 +23,7 @@
 	        "mana_cost": "{2}{B}{R}",
 	        "type": "Creature — Dwarf Wizard ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/garduu/Immesium—Shards-of-Everywhen/blob/main/imm-files/Channeler of Lifetimes.png"
+	            "en": "https://raw.githubusercontent.com/garduu/Immesium—Shards-of-Everywhen/main/imm-files/Channeler of Lifetimes.png"
 	        }
 	    },
 	    {
@@ -32,7 +32,7 @@
 	        "mana_cost": "{3}{R}{G}",
 	        "type": "Sorcery — Revelation ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/garduu/Immesium—Shards-of-Everywhen/blob/main/imm-files/From One Come Many.png"
+	            "en": "https://raw.githubusercontent.com/garduu/Immesium—Shards-of-Everywhen/main/imm-files/From One Come Many.png"
 	        }
 	    },
 	    {
@@ -41,7 +41,7 @@
 	        "mana_cost": "{R}{W}",
 	        "type": "Legendary Creature — Angel Peasant ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/garduu/Immesium—Shards-of-Everywhen/blob/main/imm-files/Ansia, Who Let Time Converge.png"
+	            "en": "https://raw.githubusercontent.com/garduu/Immesium—Shards-of-Everywhen/main/imm-files/Ansia, Who Let Time Converge.png"
 	        }
 	    },
 	    {
@@ -50,7 +50,7 @@
 	        "mana_cost": "{3}{W}{U}",
 	        "type": "Creature — Dinosaur ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/garduu/Immesium—Shards-of-Everywhen/blob/main/imm-files/Double Ptrouble.png"
+	            "en": "https://raw.githubusercontent.com/garduu/Immesium—Shards-of-Everywhen/main/imm-files/Double Ptrouble.png"
 	        }
 	    },
 	    {
@@ -59,7 +59,7 @@
 	        "mana_cost": "{2}{U}{B}",
 	        "type": "Creature — Shapeshifter ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/garduu/Immesium—Shards-of-Everywhen/blob/main/imm-files/Dark Variant.png"
+	            "en": "https://raw.githubusercontent.com/garduu/Immesium—Shards-of-Everywhen/main/imm-files/Dark Variant.png"
 	        }
 	    },
 	    {
@@ -68,7 +68,7 @@
 	        "mana_cost": "{1}{B}{R}",
 	        "type": "Creature — Orc Peasant ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/garduu/Immesium—Shards-of-Everywhen/blob/main/imm-files/Second Era Laborers.png"
+	            "en": "https://raw.githubusercontent.com/garduu/Immesium—Shards-of-Everywhen/main/imm-files/Second Era Laborers.png"
 	        }
 	    },
 	    {
@@ -77,7 +77,7 @@
 	        "mana_cost": "{1}{R}{G}",
 	        "type": "Artifact — Vehicle ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/garduu/Immesium—Shards-of-Everywhen/blob/main/imm-files/Spikestrip Zeppelin.png"
+	            "en": "https://raw.githubusercontent.com/garduu/Immesium—Shards-of-Everywhen/main/imm-files/Spikestrip Zeppelin.png"
 	        }
 	    },
 	    {
@@ -86,7 +86,7 @@
 	        "mana_cost": "{2}{G}{W}",
 	        "type": "Creature — Human Scout ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/garduu/Immesium—Shards-of-Everywhen/blob/main/imm-files/Wanderers of Eras Uncharted.png"
+	            "en": "https://raw.githubusercontent.com/garduu/Immesium—Shards-of-Everywhen/main/imm-files/Wanderers of Eras Uncharted.png"
 	        }
 	    },
 	    {
@@ -95,7 +95,7 @@
 	        "mana_cost": "{W}{B}",
 	        "type": "Creature — Elder Shark ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/garduu/Immesium—Shards-of-Everywhen/blob/main/imm-files/Unchanging One.png"
+	            "en": "https://raw.githubusercontent.com/garduu/Immesium—Shards-of-Everywhen/main/imm-files/Unchanging One.png"
 	        }
 	    },
 	    {
@@ -104,7 +104,7 @@
 	        "mana_cost": "{3}{U}{R}",
 	        "type": "Creature — Human Warlock ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/garduu/Immesium—Shards-of-Everywhen/blob/main/imm-files/Timeshatter Psyren.png"
+	            "en": "https://raw.githubusercontent.com/garduu/Immesium—Shards-of-Everywhen/main/imm-files/Timeshatter Psyren.png"
 	        }
 	    },
 	    {
@@ -113,7 +113,7 @@
 	        "mana_cost": "{W}",
 	        "type": "Creature — Rabbit Mutant ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/garduu/Immesium—Shards-of-Everywhen/blob/main/imm-files/Hare Raiser.png"
+	            "en": "https://raw.githubusercontent.com/garduu/Immesium—Shards-of-Everywhen/main/imm-files/Hare Raiser.png"
 	        }
 	    },
 	    {
@@ -122,7 +122,7 @@
 	        "mana_cost": "{1}{W}",
 	        "type": "Creature — Human Soldier ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/garduu/Immesium—Shards-of-Everywhen/blob/main/imm-files/Third Era Marshals.png"
+	            "en": "https://raw.githubusercontent.com/garduu/Immesium—Shards-of-Everywhen/main/imm-files/Third Era Marshals.png"
 	        }
 	    },
 	    {
@@ -131,7 +131,7 @@
 	        "mana_cost": "{1}{W}",
 	        "type": "Creature — Human Soldier ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/garduu/Immesium—Shards-of-Everywhen/blob/main/imm-files/Seventh Era Rocketeers.png"
+	            "en": "https://raw.githubusercontent.com/garduu/Immesium—Shards-of-Everywhen/main/imm-files/Seventh Era Rocketeers.png"
 	        }
 	    },
 	    {
@@ -140,7 +140,7 @@
 	        "mana_cost": "{1}{W}",
 	        "type": "Artifact — Vehicle ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/garduu/Immesium—Shards-of-Everywhen/blob/main/imm-files/News Van.png"
+	            "en": "https://raw.githubusercontent.com/garduu/Immesium—Shards-of-Everywhen/main/imm-files/News Van.png"
 	        }
 	    },
 	    {
@@ -149,7 +149,7 @@
 	        "mana_cost": "{1}{W}{W}",
 	        "type": "Creature — Fish ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/garduu/Immesium—Shards-of-Everywhen/blob/main/imm-files/Skyfish.png"
+	            "en": "https://raw.githubusercontent.com/garduu/Immesium—Shards-of-Everywhen/main/imm-files/Skyfish.png"
 	        }
 	    },
 	    {
@@ -158,7 +158,7 @@
 	        "mana_cost": "{2}{W}",
 	        "type": "Creature — Elf Scout ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/garduu/Immesium—Shards-of-Everywhen/blob/main/imm-files/Third Era Clockwatcher.png"
+	            "en": "https://raw.githubusercontent.com/garduu/Immesium—Shards-of-Everywhen/main/imm-files/Third Era Clockwatcher.png"
 	        }
 	    },
 	    {
@@ -167,7 +167,7 @@
 	        "mana_cost": "{2}{W}",
 	        "type": "Creature — Human Peasant ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/garduu/Immesium—Shards-of-Everywhen/blob/main/imm-files/Mergist Shepherd.png"
+	            "en": "https://raw.githubusercontent.com/garduu/Immesium—Shards-of-Everywhen/main/imm-files/Mergist Shepherd.png"
 	        }
 	    },
 	    {
@@ -176,7 +176,7 @@
 	        "mana_cost": "{3}{W}",
 	        "type": "Creature — Bird ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/garduu/Immesium—Shards-of-Everywhen/blob/main/imm-files/Ever-Growing Flock.png"
+	            "en": "https://raw.githubusercontent.com/garduu/Immesium—Shards-of-Everywhen/main/imm-files/Ever-Growing Flock.png"
 	        }
 	    },
 	    {
@@ -185,7 +185,7 @@
 	        "mana_cost": "{3}{W}",
 	        "type": "Creature — Human Artificer ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/garduu/Immesium—Shards-of-Everywhen/blob/main/imm-files/Timejump Tester.png"
+	            "en": "https://raw.githubusercontent.com/garduu/Immesium—Shards-of-Everywhen/main/imm-files/Timejump Tester.png"
 	        }
 	    },
 	    {
@@ -194,7 +194,7 @@
 	        "mana_cost": "{3}{W}{W}",
 	        "type": "Creature — Human Elf ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/garduu/Immesium—Shards-of-Everywhen/blob/main/imm-files/Displaced Ones.png"
+	            "en": "https://raw.githubusercontent.com/garduu/Immesium—Shards-of-Everywhen/main/imm-files/Displaced Ones.png"
 	        }
 	    },
 	    {
@@ -203,7 +203,7 @@
 	        "mana_cost": "{5}{W}{W}",
 	        "type": "Creature — Cat ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/garduu/Immesium—Shards-of-Everywhen/blob/main/imm-files/First Era Stalkers.png"
+	            "en": "https://raw.githubusercontent.com/garduu/Immesium—Shards-of-Everywhen/main/imm-files/First Era Stalkers.png"
 	        }
 	    },
 	    {
@@ -212,7 +212,7 @@
 	        "mana_cost": "{1}{W}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/garduu/Immesium—Shards-of-Everywhen/blob/main/imm-files/Crash in the Past.png"
+	            "en": "https://raw.githubusercontent.com/garduu/Immesium—Shards-of-Everywhen/main/imm-files/Crash in the Past.png"
 	        }
 	    },
 	    {
@@ -221,7 +221,7 @@
 	        "mana_cost": "{1}{W}{W}",
 	        "type": "Enchantment",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/garduu/Immesium—Shards-of-Everywhen/blob/main/imm-files/When Am I.png"
+	            "en": "https://raw.githubusercontent.com/garduu/Immesium—Shards-of-Everywhen/main/imm-files/When Am I.png"
 	        }
 	    },
 	    {
@@ -230,7 +230,7 @@
 	        "mana_cost": "{1}{W}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/garduu/Immesium—Shards-of-Everywhen/blob/main/imm-files/Flip It and Reverse It.png"
+	            "en": "https://raw.githubusercontent.com/garduu/Immesium—Shards-of-Everywhen/main/imm-files/Flip It and Reverse It.png"
 	        }
 	    },
 	    {
@@ -239,7 +239,7 @@
 	        "mana_cost": "{W}",
 	        "type": "Sorcery — Revelation ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/garduu/Immesium—Shards-of-Everywhen/blob/main/imm-files/Regrets Weigh Heavily.png"
+	            "en": "https://raw.githubusercontent.com/garduu/Immesium—Shards-of-Everywhen/main/imm-files/Regrets Weigh Heavily.png"
 	        }
 	    },
 	    {
@@ -248,7 +248,7 @@
 	        "mana_cost": "{X}{W}{W}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/garduu/Immesium—Shards-of-Everywhen/blob/main/imm-files/Explore the Between.png"
+	            "en": "https://raw.githubusercontent.com/garduu/Immesium—Shards-of-Everywhen/main/imm-files/Explore the Between.png"
 	        }
 	    },
 	    {
@@ -257,7 +257,7 @@
 	        "mana_cost": "{3}{W}{W}",
 	        "type": "Legendary Creature — Angel ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/garduu/Immesium—Shards-of-Everywhen/blob/main/imm-files/Esia, Overseer of Everywhen.png"
+	            "en": "https://raw.githubusercontent.com/garduu/Immesium—Shards-of-Everywhen/main/imm-files/Esia, Overseer of Everywhen.png"
 	        }
 	    },
 	    {
@@ -266,7 +266,7 @@
 	        "mana_cost": "{W}{W}",
 	        "type": "Creature — Human Wizard ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/garduu/Immesium—Shards-of-Everywhen/blob/main/imm-files/Chronostaller.png"
+	            "en": "https://raw.githubusercontent.com/garduu/Immesium—Shards-of-Everywhen/main/imm-files/Chronostaller.png"
 	        }
 	    },
 	    {
@@ -275,7 +275,7 @@
 	        "mana_cost": "{1}{W}{W}",
 	        "type": "Creature — Human Warrior ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/garduu/Immesium—Shards-of-Everywhen/blob/main/imm-files/Doubletimer.png"
+	            "en": "https://raw.githubusercontent.com/garduu/Immesium—Shards-of-Everywhen/main/imm-files/Doubletimer.png"
 	        }
 	    },
 	    {
@@ -284,7 +284,7 @@
 	        "mana_cost": "{2}{W}",
 	        "type": "Creature — Bird Noble ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/garduu/Immesium—Shards-of-Everywhen/blob/main/imm-files/Demanding Mentor.png"
+	            "en": "https://raw.githubusercontent.com/garduu/Immesium—Shards-of-Everywhen/main/imm-files/Demanding Mentor.png"
 	        }
 	    },
 	    {
@@ -293,7 +293,7 @@
 	        "mana_cost": "{2}{W}{W}",
 	        "type": "Legendary Creature — Human Pilot ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/garduu/Immesium—Shards-of-Everywhen/blob/main/imm-files/Veri, Fifth Era Timemapper.png"
+	            "en": "https://raw.githubusercontent.com/garduu/Immesium—Shards-of-Everywhen/main/imm-files/Veri, Fifth Era Timemapper.png"
 	        }
 	    },
 	    {
@@ -302,7 +302,7 @@
 	        "mana_cost": "{W}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/garduu/Immesium—Shards-of-Everywhen/blob/main/imm-files/Search Through Time.png"
+	            "en": "https://raw.githubusercontent.com/garduu/Immesium—Shards-of-Everywhen/main/imm-files/Search Through Time.png"
 	        }
 	    },
 	    {
@@ -311,7 +311,7 @@
 	        "mana_cost": "{2}{W}{W}",
 	        "type": "Enchantment — Shard ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/garduu/Immesium—Shards-of-Everywhen/blob/main/imm-files/Fragment of Multitudes.png"
+	            "en": "https://raw.githubusercontent.com/garduu/Immesium—Shards-of-Everywhen/main/imm-files/Fragment of Multitudes.png"
 	        }
 	    },
 	    {
@@ -320,7 +320,7 @@
 	        "mana_cost": "{3}{W}",
 	        "type": "Enchantment — Saga ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/garduu/Immesium—Shards-of-Everywhen/blob/main/imm-files/Exploring the Convergence.png"
+	            "en": "https://raw.githubusercontent.com/garduu/Immesium—Shards-of-Everywhen/main/imm-files/Exploring the Convergence.png"
 	        }
 	    },
 	    {
@@ -329,7 +329,7 @@
 	        "mana_cost": "{4}{W}",
 	        "type": "Creature — Human Cleric ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/garduu/Immesium—Shards-of-Everywhen/blob/main/imm-files/Esian Fatechanger.png"
+	            "en": "https://raw.githubusercontent.com/garduu/Immesium—Shards-of-Everywhen/main/imm-files/Esian Fatechanger.png"
 	        }
 	    },
 	    {
@@ -338,7 +338,7 @@
 	        "mana_cost": "{1}{W}",
 	        "type": "Creature — Toy Golem ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/garduu/Immesium—Shards-of-Everywhen/blob/main/imm-files/Beloved First Creation.png"
+	            "en": "https://raw.githubusercontent.com/garduu/Immesium—Shards-of-Everywhen/main/imm-files/Beloved First Creation.png"
 	        }
 	    },
 	    {
@@ -347,7 +347,7 @@
 	        "mana_cost": "{2}{W}",
 	        "type": "Creature — Elemental ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/garduu/Immesium—Shards-of-Everywhen/blob/main/imm-files/Wings of the Ephemeral.png"
+	            "en": "https://raw.githubusercontent.com/garduu/Immesium—Shards-of-Everywhen/main/imm-files/Wings of the Ephemeral.png"
 	        }
 	    },
 	    {
@@ -356,7 +356,7 @@
 	        "mana_cost": "{2}{W}",
 	        "type": "Creature — Human Warrior ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/garduu/Immesium—Shards-of-Everywhen/blob/main/imm-files/Ancient Champion.png"
+	            "en": "https://raw.githubusercontent.com/garduu/Immesium—Shards-of-Everywhen/main/imm-files/Ancient Champion.png"
 	        }
 	    },
 	    {
@@ -365,7 +365,7 @@
 	        "mana_cost": "{2}{W}{W}",
 	        "type": "Creature — Human Warlock ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/garduu/Immesium—Shards-of-Everywhen/blob/main/imm-files/Shardwielder.png"
+	            "en": "https://raw.githubusercontent.com/garduu/Immesium—Shards-of-Everywhen/main/imm-files/Shardwielder.png"
 	        }
 	    },
 	    {
@@ -374,7 +374,7 @@
 	        "mana_cost": "{3}{W}{W}",
 	        "type": "Artifact — Vehicle ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/garduu/Immesium—Shards-of-Everywhen/blob/main/imm-files/Soulskimmer.png"
+	            "en": "https://raw.githubusercontent.com/garduu/Immesium—Shards-of-Everywhen/main/imm-files/Soulskimmer.png"
 	        }
 	    },
 	    {
@@ -383,7 +383,7 @@
 	        "mana_cost": "{W}",
 	        "type": "Creature — Human Soldier ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/garduu/Immesium—Shards-of-Everywhen/blob/main/imm-files/Seventh Era Commando.png"
+	            "en": "https://raw.githubusercontent.com/garduu/Immesium—Shards-of-Everywhen/main/imm-files/Seventh Era Commando.png"
 	        }
 	    },
 	    {
@@ -392,7 +392,7 @@
 	        "mana_cost": "{5}{W}",
 	        "type": "Creature — Human Pilot ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/garduu/Immesium—Shards-of-Everywhen/blob/main/imm-files/Hunted Rocketeer.png"
+	            "en": "https://raw.githubusercontent.com/garduu/Immesium—Shards-of-Everywhen/main/imm-files/Hunted Rocketeer.png"
 	        }
 	    },
 	    {
@@ -401,7 +401,7 @@
 	        "mana_cost": "{3}{W}",
 	        "type": "Creature — Human Artificer ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/garduu/Immesium—Shards-of-Everywhen/blob/main/imm-files/Second Era Dollmaker.png"
+	            "en": "https://raw.githubusercontent.com/garduu/Immesium—Shards-of-Everywhen/main/imm-files/Second Era Dollmaker.png"
 	        }
 	    },
 	    {
@@ -410,7 +410,7 @@
 	        "mana_cost": "{4}{W}{W}",
 	        "type": "Artifact Creature — Bird Drone ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/garduu/Immesium—Shards-of-Everywhen/blob/main/imm-files/Fourth Era Bird's-Eye.png"
+	            "en": "https://raw.githubusercontent.com/garduu/Immesium—Shards-of-Everywhen/main/imm-files/Fourth Era Bird's-Eye.png"
 	        }
 	    },
 	    {
@@ -419,7 +419,7 @@
 	        "mana_cost": "{1}{W}{W}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/garduu/Immesium—Shards-of-Everywhen/blob/main/imm-files/Happy Hour.png"
+	            "en": "https://raw.githubusercontent.com/garduu/Immesium—Shards-of-Everywhen/main/imm-files/Happy Hour.png"
 	        }
 	    },
 	    {
@@ -428,7 +428,7 @@
 	        "mana_cost": "{2}{W}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/garduu/Immesium—Shards-of-Everywhen/blob/main/imm-files/Lost to Time.png"
+	            "en": "https://raw.githubusercontent.com/garduu/Immesium—Shards-of-Everywhen/main/imm-files/Lost to Time.png"
 	        }
 	    },
 	    {
@@ -437,7 +437,7 @@
 	        "mana_cost": "{W}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/garduu/Immesium—Shards-of-Everywhen/blob/main/imm-files/March Through Minutes.png"
+	            "en": "https://raw.githubusercontent.com/garduu/Immesium—Shards-of-Everywhen/main/imm-files/March Through Minutes.png"
 	        }
 	    },
 	    {
@@ -446,7 +446,7 @@
 	        "mana_cost": "{1}{U}",
 	        "type": "Creature — Human Scientist ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/garduu/Immesium—Shards-of-Everywhen/blob/main/imm-files/Chronospecimen Collector.png"
+	            "en": "https://raw.githubusercontent.com/garduu/Immesium—Shards-of-Everywhen/main/imm-files/Chronospecimen Collector.png"
 	        }
 	    },
 	    {
@@ -455,7 +455,7 @@
 	        "mana_cost": "{2}{U}",
 	        "type": "Creature — Human Warrior ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/garduu/Immesium—Shards-of-Everywhen/blob/main/imm-files/First Era Pterrorizer.png"
+	            "en": "https://raw.githubusercontent.com/garduu/Immesium—Shards-of-Everywhen/main/imm-files/First Era Pterrorizer.png"
 	        }
 	    },
 	    {
@@ -464,7 +464,7 @@
 	        "mana_cost": "{2}{U}",
 	        "type": "Creature — Gnome Scientist ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/garduu/Immesium—Shards-of-Everywhen/blob/main/imm-files/Careless Chronologist.png"
+	            "en": "https://raw.githubusercontent.com/garduu/Immesium—Shards-of-Everywhen/main/imm-files/Careless Chronologist.png"
 	        }
 	    },
 	    {
@@ -473,7 +473,7 @@
 	        "mana_cost": "{1}{U}",
 	        "type": "Creature — Human Advisor ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/garduu/Immesium—Shards-of-Everywhen/blob/main/imm-files/Temporal Theoretician.png"
+	            "en": "https://raw.githubusercontent.com/garduu/Immesium—Shards-of-Everywhen/main/imm-files/Temporal Theoretician.png"
 	        }
 	    },
 	    {
@@ -482,7 +482,7 @@
 	        "mana_cost": "{2}{U}",
 	        "type": "Creature — Gnome Scientist ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/garduu/Immesium—Shards-of-Everywhen/blob/main/imm-files/Temportal Technomancer.png"
+	            "en": "https://raw.githubusercontent.com/garduu/Immesium—Shards-of-Everywhen/main/imm-files/Temportal Technomancer.png"
 	        }
 	    },
 	    {
@@ -491,7 +491,7 @@
 	        "mana_cost": "{3}{U}",
 	        "type": "Creature — Crab Faerie ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/garduu/Immesium—Shards-of-Everywhen/blob/main/imm-files/Cancrixie.png"
+	            "en": "https://raw.githubusercontent.com/garduu/Immesium—Shards-of-Everywhen/main/imm-files/Cancrixie.png"
 	        }
 	    },
 	    {
@@ -500,7 +500,7 @@
 	        "mana_cost": "{4}{U}",
 	        "type": "Creature — Dinosaur ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/garduu/Immesium—Shards-of-Everywhen/blob/main/imm-files/Ancient Lunadactyl.png"
+	            "en": "https://raw.githubusercontent.com/garduu/Immesium—Shards-of-Everywhen/main/imm-files/Ancient Lunadactyl.png"
 	        }
 	    },
 	    {
@@ -509,7 +509,7 @@
 	        "mana_cost": "{4}{U}{U}",
 	        "type": "Creature — Dinosaur Leviathan ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/garduu/Immesium—Shards-of-Everywhen/blob/main/imm-files/First Era Brineosaurus.png"
+	            "en": "https://raw.githubusercontent.com/garduu/Immesium—Shards-of-Everywhen/main/imm-files/First Era Brineosaurus.png"
 	        }
 	    },
 	    {
@@ -518,7 +518,7 @@
 	        "mana_cost": "{U}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/garduu/Immesium—Shards-of-Everywhen/blob/main/imm-files/Thinking With Portals.png"
+	            "en": "https://raw.githubusercontent.com/garduu/Immesium—Shards-of-Everywhen/main/imm-files/Thinking With Portals.png"
 	        }
 	    },
 	    {
@@ -527,7 +527,7 @@
 	        "mana_cost": "{1}{U}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/garduu/Immesium—Shards-of-Everywhen/blob/main/imm-files/Paradox Prevention.png"
+	            "en": "https://raw.githubusercontent.com/garduu/Immesium—Shards-of-Everywhen/main/imm-files/Paradox Prevention.png"
 	        }
 	    },
 	    {
@@ -536,7 +536,7 @@
 	        "mana_cost": "{U}",
 	        "type": "Sorcery — Revelation ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/garduu/Immesium—Shards-of-Everywhen/blob/main/imm-files/They Are Watching.png"
+	            "en": "https://raw.githubusercontent.com/garduu/Immesium—Shards-of-Everywhen/main/imm-files/They Are Watching.png"
 	        }
 	    },
 	    {
@@ -545,7 +545,7 @@
 	        "mana_cost": "{3}{U}",
 	        "type": "Sorcery — Revelation ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/garduu/Immesium—Shards-of-Everywhen/blob/main/imm-files/It Knows.png"
+	            "en": "https://raw.githubusercontent.com/garduu/Immesium—Shards-of-Everywhen/main/imm-files/It Knows.png"
 	        }
 	    },
 	    {
@@ -554,7 +554,7 @@
 	        "mana_cost": "{U}",
 	        "type": "Enchantment — Aura ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/garduu/Immesium—Shards-of-Everywhen/blob/main/imm-files/A New Beginning.png"
+	            "en": "https://raw.githubusercontent.com/garduu/Immesium—Shards-of-Everywhen/main/imm-files/A New Beginning.png"
 	        }
 	    },
 	    {
@@ -563,7 +563,7 @@
 	        "mana_cost": "{3}{U}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/garduu/Immesium—Shards-of-Everywhen/blob/main/imm-files/Lost Again and Again.png"
+	            "en": "https://raw.githubusercontent.com/garduu/Immesium—Shards-of-Everywhen/main/imm-files/Lost Again and Again.png"
 	        }
 	    },
 	    {
@@ -572,7 +572,7 @@
 	        "mana_cost": "{1}{U}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/garduu/Immesium—Shards-of-Everywhen/blob/main/imm-files/Reschedule.png"
+	            "en": "https://raw.githubusercontent.com/garduu/Immesium—Shards-of-Everywhen/main/imm-files/Reschedule.png"
 	        }
 	    },
 	    {
@@ -581,7 +581,7 @@
 	        "mana_cost": "{2}{U}{U}",
 	        "type": "Legendary Creature — Human ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/garduu/Immesium—Shards-of-Everywhen/blob/main/imm-files/Gaston, Time on His Hands.png"
+	            "en": "https://raw.githubusercontent.com/garduu/Immesium—Shards-of-Everywhen/main/imm-files/Gaston, Time on His Hands.png"
 	        }
 	    },
 	    {
@@ -590,7 +590,7 @@
 	        "mana_cost": "{4}{U}{U}{U}{U}",
 	        "type": "Legendary Enchantment",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/garduu/Immesium—Shards-of-Everywhen/blob/main/imm-files/Immesium Convergence.png"
+	            "en": "https://raw.githubusercontent.com/garduu/Immesium—Shards-of-Everywhen/main/imm-files/Immesium Convergence.png"
 	        }
 	    },
 	    {
@@ -599,7 +599,7 @@
 	        "mana_cost": "{1}{U}",
 	        "type": "Creature — Elemental ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/garduu/Immesium—Shards-of-Everywhen/blob/main/imm-files/Unreliable Memory.png"
+	            "en": "https://raw.githubusercontent.com/garduu/Immesium—Shards-of-Everywhen/main/imm-files/Unreliable Memory.png"
 	        }
 	    },
 	    {
@@ -608,7 +608,7 @@
 	        "mana_cost": "{2}{U}{U}",
 	        "type": "Legendary Creature — Dwarf Warlock ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/garduu/Immesium—Shards-of-Everywhen/blob/main/imm-files/Bollar, Seam Ripper.png"
+	            "en": "https://raw.githubusercontent.com/garduu/Immesium—Shards-of-Everywhen/main/imm-files/Bollar, Seam Ripper.png"
 	        }
 	    },
 	    {
@@ -617,7 +617,7 @@
 	        "mana_cost": "{4}{U}{U}",
 	        "type": "Creature — Leviathan ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/garduu/Immesium—Shards-of-Everywhen/blob/main/imm-files/Scourge of Ancient Seas.png"
+	            "en": "https://raw.githubusercontent.com/garduu/Immesium—Shards-of-Everywhen/main/imm-files/Scourge of Ancient Seas.png"
 	        }
 	    },
 	    {
@@ -626,7 +626,7 @@
 	        "mana_cost": "{1}{U}{U}{U}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/garduu/Immesium—Shards-of-Everywhen/blob/main/imm-files/Hournado.png"
+	            "en": "https://raw.githubusercontent.com/garduu/Immesium—Shards-of-Everywhen/main/imm-files/Hournado.png"
 	        }
 	    },
 	    {
@@ -635,7 +635,7 @@
 	        "mana_cost": "{4}{U}{U}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/garduu/Immesium—Shards-of-Everywhen/blob/main/imm-files/Still the Sands.png"
+	            "en": "https://raw.githubusercontent.com/garduu/Immesium—Shards-of-Everywhen/main/imm-files/Still the Sands.png"
 	        }
 	    },
 	    {
@@ -644,7 +644,7 @@
 	        "mana_cost": "{1}{U}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/garduu/Immesium—Shards-of-Everywhen/blob/main/imm-files/Delay.png"
+	            "en": "https://raw.githubusercontent.com/garduu/Immesium—Shards-of-Everywhen/main/imm-files/Delay.png"
 	        }
 	    },
 	    {
@@ -653,7 +653,7 @@
 	        "mana_cost": "{1}{U}{U}",
 	        "type": "Enchantment — Saga ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/garduu/Immesium—Shards-of-Everywhen/blob/main/imm-files/Lost Knowledge Returns.png"
+	            "en": "https://raw.githubusercontent.com/garduu/Immesium—Shards-of-Everywhen/main/imm-files/Lost Knowledge Returns.png"
 	        }
 	    },
 	    {
@@ -662,7 +662,7 @@
 	        "mana_cost": "{2}{U}",
 	        "type": "Creature — Eye ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/garduu/Immesium—Shards-of-Everywhen/blob/main/imm-files/Watcher from the Eighth Era.png"
+	            "en": "https://raw.githubusercontent.com/garduu/Immesium—Shards-of-Everywhen/main/imm-files/Watcher from the Eighth Era.png"
 	        }
 	    },
 	    {
@@ -671,7 +671,7 @@
 	        "mana_cost": "{1}{U}",
 	        "type": "Creature — Human Scout ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/garduu/Immesium—Shards-of-Everywhen/blob/main/imm-files/Veri's Eyes.png"
+	            "en": "https://raw.githubusercontent.com/garduu/Immesium—Shards-of-Everywhen/main/imm-files/Veri's Eyes.png"
 	        }
 	    },
 	    {
@@ -680,7 +680,7 @@
 	        "mana_cost": "{2}{U}",
 	        "type": "Creature — Elemental ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/garduu/Immesium—Shards-of-Everywhen/blob/main/imm-files/Nexus Elemental.png"
+	            "en": "https://raw.githubusercontent.com/garduu/Immesium—Shards-of-Everywhen/main/imm-files/Nexus Elemental.png"
 	        }
 	    },
 	    {
@@ -689,7 +689,7 @@
 	        "mana_cost": "{3}{U}",
 	        "type": "Artifact Creature — Robot ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/garduu/Immesium—Shards-of-Everywhen/blob/main/imm-files/Everyman 2.0.png"
+	            "en": "https://raw.githubusercontent.com/garduu/Immesium—Shards-of-Everywhen/main/imm-files/Everyman 2.0.png"
 	        }
 	    },
 	    {
@@ -698,7 +698,7 @@
 	        "mana_cost": "{2}{U}{U}",
 	        "type": "Creature — Hyuman Soldier Pilot ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/garduu/Immesium—Shards-of-Everywhen/blob/main/imm-files/Fifth Era Bombardier.png"
+	            "en": "https://raw.githubusercontent.com/garduu/Immesium—Shards-of-Everywhen/main/imm-files/Fifth Era Bombardier.png"
 	        }
 	    },
 	    {
@@ -707,7 +707,7 @@
 	        "mana_cost": "{3}{U}{U}",
 	        "type": "Creature — Elemental ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/garduu/Immesium—Shards-of-Everywhen/blob/main/imm-files/Paradox Portent.png"
+	            "en": "https://raw.githubusercontent.com/garduu/Immesium—Shards-of-Everywhen/main/imm-files/Paradox Portent.png"
 	        }
 	    },
 	    {
@@ -716,7 +716,7 @@
 	        "mana_cost": "{5}{U}{U}",
 	        "type": "Creature — Cat ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/garduu/Immesium—Shards-of-Everywhen/blob/main/imm-files/Catolossus City-Tipper.png"
+	            "en": "https://raw.githubusercontent.com/garduu/Immesium—Shards-of-Everywhen/main/imm-files/Catolossus City-Tipper.png"
 	        }
 	    },
 	    {
@@ -725,7 +725,7 @@
 	        "mana_cost": "{U}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/garduu/Immesium—Shards-of-Everywhen/blob/main/imm-files/Primal Reversion.png"
+	            "en": "https://raw.githubusercontent.com/garduu/Immesium—Shards-of-Everywhen/main/imm-files/Primal Reversion.png"
 	        }
 	    },
 	    {
@@ -734,7 +734,7 @@
 	        "mana_cost": "{2}{U}",
 	        "type": "Sorcery — Revelation ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/garduu/Immesium—Shards-of-Everywhen/blob/main/imm-files/We Cling to False Hopes.png"
+	            "en": "https://raw.githubusercontent.com/garduu/Immesium—Shards-of-Everywhen/main/imm-files/We Cling to False Hopes.png"
 	        }
 	    },
 	    {
@@ -743,7 +743,7 @@
 	        "mana_cost": "{2}{U}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/garduu/Immesium—Shards-of-Everywhen/blob/main/imm-files/Scare Away.png"
+	            "en": "https://raw.githubusercontent.com/garduu/Immesium—Shards-of-Everywhen/main/imm-files/Scare Away.png"
 	        }
 	    },
 	    {
@@ -752,7 +752,7 @@
 	        "mana_cost": "{5}{U}{U}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/garduu/Immesium—Shards-of-Everywhen/blob/main/imm-files/Ancient Knowledge.png"
+	            "en": "https://raw.githubusercontent.com/garduu/Immesium—Shards-of-Everywhen/main/imm-files/Ancient Knowledge.png"
 	        }
 	    },
 	    {
@@ -761,7 +761,7 @@
 	        "mana_cost": "{1}{U}{U}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/garduu/Immesium—Shards-of-Everywhen/blob/main/imm-files/Inflection Point.png"
+	            "en": "https://raw.githubusercontent.com/garduu/Immesium—Shards-of-Everywhen/main/imm-files/Inflection Point.png"
 	        }
 	    },
 	    {
@@ -770,7 +770,7 @@
 	        "mana_cost": "{4}{U}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/garduu/Immesium—Shards-of-Everywhen/blob/main/imm-files/Scouting Expedition.png"
+	            "en": "https://raw.githubusercontent.com/garduu/Immesium—Shards-of-Everywhen/main/imm-files/Scouting Expedition.png"
 	        }
 	    },
 	    {
@@ -779,7 +779,7 @@
 	        "mana_cost": "{B}",
 	        "type": "Creature — Human Assassin ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/garduu/Immesium—Shards-of-Everywhen/blob/main/imm-files/Timeworn Sharpshot.png"
+	            "en": "https://raw.githubusercontent.com/garduu/Immesium—Shards-of-Everywhen/main/imm-files/Timeworn Sharpshot.png"
 	        }
 	    },
 	    {
@@ -788,7 +788,7 @@
 	        "mana_cost": "{1}{B}",
 	        "type": "Creature — Mutant ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/garduu/Immesium—Shards-of-Everywhen/blob/main/imm-files/Moment Before Disaster.png"
+	            "en": "https://raw.githubusercontent.com/garduu/Immesium—Shards-of-Everywhen/main/imm-files/Moment Before Disaster.png"
 	        }
 	    },
 	    {
@@ -797,7 +797,7 @@
 	        "mana_cost": "{1}{B}",
 	        "type": "Creature — Imp ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/garduu/Immesium—Shards-of-Everywhen/blob/main/imm-files/Tomorrow Eater.png"
+	            "en": "https://raw.githubusercontent.com/garduu/Immesium—Shards-of-Everywhen/main/imm-files/Tomorrow Eater.png"
 	        }
 	    },
 	    {
@@ -806,7 +806,7 @@
 	        "mana_cost": "{2}{B}",
 	        "type": "Creature — Human Survivor ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/garduu/Immesium—Shards-of-Everywhen/blob/main/imm-files/Mergist Scavengers.png"
+	            "en": "https://raw.githubusercontent.com/garduu/Immesium—Shards-of-Everywhen/main/imm-files/Mergist Scavengers.png"
 	        }
 	    },
 	    {
@@ -815,7 +815,7 @@
 	        "mana_cost": "{2}{B}",
 	        "type": "Creature — Elf Noble ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/garduu/Immesium—Shards-of-Everywhen/blob/main/imm-files/Disdainful Separatist.png"
+	            "en": "https://raw.githubusercontent.com/garduu/Immesium—Shards-of-Everywhen/main/imm-files/Disdainful Separatist.png"
 	        }
 	    },
 	    {
@@ -824,7 +824,7 @@
 	        "mana_cost": "{4}{B}",
 	        "type": "Creature — Human Shaman ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/garduu/Immesium—Shards-of-Everywhen/blob/main/imm-files/First Era Doomsayer.png"
+	            "en": "https://raw.githubusercontent.com/garduu/Immesium—Shards-of-Everywhen/main/imm-files/First Era Doomsayer.png"
 	        }
 	    },
 	    {
@@ -833,7 +833,7 @@
 	        "mana_cost": "{3}{B}",
 	        "type": "Creature — Human Advisor ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/garduu/Immesium—Shards-of-Everywhen/blob/main/imm-files/Middle Manager Mergist.png"
+	            "en": "https://raw.githubusercontent.com/garduu/Immesium—Shards-of-Everywhen/main/imm-files/Middle Manager Mergist.png"
 	        }
 	    },
 	    {
@@ -842,7 +842,7 @@
 	        "mana_cost": "{3}{B}",
 	        "type": "Creature — Minotaur Artificer ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/garduu/Immesium—Shards-of-Everywhen/blob/main/imm-files/Steampack Pioneer.png"
+	            "en": "https://raw.githubusercontent.com/garduu/Immesium—Shards-of-Everywhen/main/imm-files/Steampack Pioneer.png"
 	        }
 	    },
 	    {
@@ -851,7 +851,7 @@
 	        "mana_cost": "{4}{B}{B}",
 	        "type": "Creature — Horror ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/garduu/Immesium—Shards-of-Everywhen/blob/main/imm-files/Sinuous Shardbeast.png"
+	            "en": "https://raw.githubusercontent.com/garduu/Immesium—Shards-of-Everywhen/main/imm-files/Sinuous Shardbeast.png"
 	        }
 	    },
 	    {
@@ -860,7 +860,7 @@
 	        "mana_cost": "{1}{B}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/garduu/Immesium—Shards-of-Everywhen/blob/main/imm-files/Mysteries Unravel and So Do I.png"
+	            "en": "https://raw.githubusercontent.com/garduu/Immesium—Shards-of-Everywhen/main/imm-files/Mysteries Unravel and So Do I.png"
 	        }
 	    },
 	    {
@@ -869,7 +869,7 @@
 	        "mana_cost": "{1}{B}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/garduu/Immesium—Shards-of-Everywhen/blob/main/imm-files/Defy Fate.png"
+	            "en": "https://raw.githubusercontent.com/garduu/Immesium—Shards-of-Everywhen/main/imm-files/Defy Fate.png"
 	        }
 	    },
 	    {
@@ -878,7 +878,7 @@
 	        "mana_cost": "{B}",
 	        "type": "Sorcery — Revelation ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/garduu/Immesium—Shards-of-Everywhen/blob/main/imm-files/They Were Always Coming.png"
+	            "en": "https://raw.githubusercontent.com/garduu/Immesium—Shards-of-Everywhen/main/imm-files/They Were Always Coming.png"
 	        }
 	    },
 	    {
@@ -887,7 +887,7 @@
 	        "mana_cost": "{2}{B}",
 	        "type": "Sorcery — Revelation ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/garduu/Immesium—Shards-of-Everywhen/blob/main/imm-files/They Leave Us No Sanctuary.png"
+	            "en": "https://raw.githubusercontent.com/garduu/Immesium—Shards-of-Everywhen/main/imm-files/They Leave Us No Sanctuary.png"
 	        }
 	    },
 	    {
@@ -896,7 +896,7 @@
 	        "mana_cost": "{2}{B}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/garduu/Immesium—Shards-of-Everywhen/blob/main/imm-files/This is a Bad Time.png"
+	            "en": "https://raw.githubusercontent.com/garduu/Immesium—Shards-of-Everywhen/main/imm-files/This is a Bad Time.png"
 	        }
 	    },
 	    {
@@ -905,7 +905,7 @@
 	        "mana_cost": "{4}{B}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/garduu/Immesium—Shards-of-Everywhen/blob/main/imm-files/Horrible End.png"
+	            "en": "https://raw.githubusercontent.com/garduu/Immesium—Shards-of-Everywhen/main/imm-files/Horrible End.png"
 	        }
 	    },
 	    {
@@ -914,7 +914,7 @@
 	        "mana_cost": "{4}{B}{B}{B}",
 	        "type": "Legendary Creature — Human Noble ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/garduu/Immesium—Shards-of-Everywhen/blob/main/imm-files/Rieze, Lord of All Times.png"
+	            "en": "https://raw.githubusercontent.com/garduu/Immesium—Shards-of-Everywhen/main/imm-files/Rieze, Lord of All Times.png"
 	        }
 	    },
 	    {
@@ -923,7 +923,7 @@
 	        "mana_cost": "{4}{B}{B}",
 	        "type": "Sorcery — Revelation ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/garduu/Immesium—Shards-of-Everywhen/blob/main/imm-files/We're Out of Time.png"
+	            "en": "https://raw.githubusercontent.com/garduu/Immesium—Shards-of-Everywhen/main/imm-files/We're Out of Time.png"
 	        }
 	    },
 	    {
@@ -932,7 +932,7 @@
 	        "mana_cost": "{3}{B}{B}",
 	        "type": "Creature — Zombie  ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/garduu/Immesium—Shards-of-Everywhen/blob/main/imm-files/All-Era Amalgam.png"
+	            "en": "https://raw.githubusercontent.com/garduu/Immesium—Shards-of-Everywhen/main/imm-files/All-Era Amalgam.png"
 	        }
 	    },
 	    {
@@ -941,7 +941,7 @@
 	        "mana_cost": "{1}{B}{B}",
 	        "type": "Creature — Orb ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/garduu/Immesium—Shards-of-Everywhen/blob/main/imm-files/Eras Tour Guide.png"
+	            "en": "https://raw.githubusercontent.com/garduu/Immesium—Shards-of-Everywhen/main/imm-files/Eras Tour Guide.png"
 	        }
 	    },
 	    {
@@ -950,7 +950,7 @@
 	        "mana_cost": "{B}{B}",
 	        "type": "Legendary Creature",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/garduu/Immesium—Shards-of-Everywhen/blob/main/imm-files/Algier, Seconds to None.png"
+	            "en": "https://raw.githubusercontent.com/garduu/Immesium—Shards-of-Everywhen/main/imm-files/Algier, Seconds to None.png"
 	        }
 	    },
 	    {
@@ -959,7 +959,7 @@
 	        "mana_cost": "{2}{B}{B}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/garduu/Immesium—Shards-of-Everywhen/blob/main/imm-files/Erase From History.png"
+	            "en": "https://raw.githubusercontent.com/garduu/Immesium—Shards-of-Everywhen/main/imm-files/Erase From History.png"
 	        }
 	    },
 	    {
@@ -968,7 +968,7 @@
 	        "mana_cost": "{3}{B}{B}{B}",
 	        "type": "Creature — Horror ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/garduu/Immesium—Shards-of-Everywhen/blob/main/imm-files/A Darkness Beyond Time.png"
+	            "en": "https://raw.githubusercontent.com/garduu/Immesium—Shards-of-Everywhen/main/imm-files/A Darkness Beyond Time.png"
 	        }
 	    },
 	    {
@@ -977,7 +977,7 @@
 	        "mana_cost": "{4}{B}{B}",
 	        "type": "Sorcery — Revelation ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/garduu/Immesium—Shards-of-Everywhen/blob/main/imm-files/Our End is Inevitable.png"
+	            "en": "https://raw.githubusercontent.com/garduu/Immesium—Shards-of-Everywhen/main/imm-files/Our End is Inevitable.png"
 	        }
 	    },
 	    {
@@ -986,7 +986,7 @@
 	        "mana_cost": "{1}{B}{B}",
 	        "type": "Enchantment — Saga ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/garduu/Immesium—Shards-of-Everywhen/blob/main/imm-files/They Break Through Time.png"
+	            "en": "https://raw.githubusercontent.com/garduu/Immesium—Shards-of-Everywhen/main/imm-files/They Break Through Time.png"
 	        }
 	    },
 	    {
@@ -995,7 +995,7 @@
 	        "mana_cost": "{B}",
 	        "type": "Creature — Horror ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/garduu/Immesium—Shards-of-Everywhen/blob/main/imm-files/Thing Behind You.png"
+	            "en": "https://raw.githubusercontent.com/garduu/Immesium—Shards-of-Everywhen/main/imm-files/Thing Behind You.png"
 	        }
 	    },
 	    {
@@ -1004,7 +1004,7 @@
 	        "mana_cost": "{1}{B}",
 	        "type": "Creature — Human Citizen ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/garduu/Immesium—Shards-of-Everywhen/blob/main/imm-files/Paradox Digger.png"
+	            "en": "https://raw.githubusercontent.com/garduu/Immesium—Shards-of-Everywhen/main/imm-files/Paradox Digger.png"
 	        }
 	    },
 	    {
@@ -1013,7 +1013,7 @@
 	        "mana_cost": "{1}{B}{B}",
 	        "type": "Creature — Spider Mutant ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/garduu/Immesium—Shards-of-Everywhen/blob/main/imm-files/Silkstring Puppeteer.png"
+	            "en": "https://raw.githubusercontent.com/garduu/Immesium—Shards-of-Everywhen/main/imm-files/Silkstring Puppeteer.png"
 	        }
 	    },
 	    {
@@ -1022,7 +1022,7 @@
 	        "mana_cost": "{2}{B}{B}",
 	        "type": "Creature — Human Warlock ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/garduu/Immesium—Shards-of-Everywhen/blob/main/imm-files/Doomshard Prophet.png"
+	            "en": "https://raw.githubusercontent.com/garduu/Immesium—Shards-of-Everywhen/main/imm-files/Doomshard Prophet.png"
 	        }
 	    },
 	    {
@@ -1031,7 +1031,7 @@
 	        "mana_cost": "{3}{B}",
 	        "type": "Creature — Skeleton ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/garduu/Immesium—Shards-of-Everywhen/blob/main/imm-files/Redying Looper.png"
+	            "en": "https://raw.githubusercontent.com/garduu/Immesium—Shards-of-Everywhen/main/imm-files/Redying Looper.png"
 	        }
 	    },
 	    {
@@ -1040,7 +1040,7 @@
 	        "mana_cost": "{3}{B}{B}",
 	        "type": "Creature — Horror ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/garduu/Immesium—Shards-of-Everywhen/blob/main/imm-files/Sinister Shardwing.png"
+	            "en": "https://raw.githubusercontent.com/garduu/Immesium—Shards-of-Everywhen/main/imm-files/Sinister Shardwing.png"
 	        }
 	    },
 	    {
@@ -1049,7 +1049,7 @@
 	        "mana_cost": "{4}{B}{B}",
 	        "type": "Creature — Dragon ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/garduu/Immesium—Shards-of-Everywhen/blob/main/imm-files/Skyline Tyrant.png"
+	            "en": "https://raw.githubusercontent.com/garduu/Immesium—Shards-of-Everywhen/main/imm-files/Skyline Tyrant.png"
 	        }
 	    },
 	    {
@@ -1058,7 +1058,7 @@
 	        "mana_cost": "{2}{B}{B}",
 	        "type": "Sorcery — Revelation ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/garduu/Immesium—Shards-of-Everywhen/blob/main/imm-files/The Best of Us Will Fall.png"
+	            "en": "https://raw.githubusercontent.com/garduu/Immesium—Shards-of-Everywhen/main/imm-files/The Best of Us Will Fall.png"
 	        }
 	    },
 	    {
@@ -1067,7 +1067,7 @@
 	        "mana_cost": "{B}{B}",
 	        "type": "Sorcery — Revelation ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/garduu/Immesium—Shards-of-Everywhen/blob/main/imm-files/The Truth is Horrifying.png"
+	            "en": "https://raw.githubusercontent.com/garduu/Immesium—Shards-of-Everywhen/main/imm-files/The Truth is Horrifying.png"
 	        }
 	    },
 	    {
@@ -1076,7 +1076,7 @@
 	        "mana_cost": "{B}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/garduu/Immesium—Shards-of-Everywhen/blob/main/imm-files/Modern Malice.png"
+	            "en": "https://raw.githubusercontent.com/garduu/Immesium—Shards-of-Everywhen/main/imm-files/Modern Malice.png"
 	        }
 	    },
 	    {
@@ -1085,7 +1085,7 @@
 	        "mana_cost": "{1}{B}{B}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/garduu/Immesium—Shards-of-Everywhen/blob/main/imm-files/Peer Through the Cracks.png"
+	            "en": "https://raw.githubusercontent.com/garduu/Immesium—Shards-of-Everywhen/main/imm-files/Peer Through the Cracks.png"
 	        }
 	    },
 	    {
@@ -1094,7 +1094,7 @@
 	        "mana_cost": "{5}{B}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/garduu/Immesium—Shards-of-Everywhen/blob/main/imm-files/Relativistic Loop.png"
+	            "en": "https://raw.githubusercontent.com/garduu/Immesium—Shards-of-Everywhen/main/imm-files/Relativistic Loop.png"
 	        }
 	    },
 	    {
@@ -1103,7 +1103,7 @@
 	        "mana_cost": "{2}{B}{B}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/garduu/Immesium—Shards-of-Everywhen/blob/main/imm-files/The Feast Begins.png"
+	            "en": "https://raw.githubusercontent.com/garduu/Immesium—Shards-of-Everywhen/main/imm-files/The Feast Begins.png"
 	        }
 	    },
 	    {
@@ -1112,7 +1112,7 @@
 	        "mana_cost": "{R}",
 	        "type": "Creature — Human Soldier ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/garduu/Immesium—Shards-of-Everywhen/blob/main/imm-files/Disgruntled Centurion.png"
+	            "en": "https://raw.githubusercontent.com/garduu/Immesium—Shards-of-Everywhen/main/imm-files/Disgruntled Centurion.png"
 	        }
 	    },
 	    {
@@ -1121,7 +1121,7 @@
 	        "mana_cost": "{1}{R}",
 	        "type": "Creature — Orc Citizen ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/garduu/Immesium—Shards-of-Everywhen/blob/main/imm-files/Second Era Gossipers.png"
+	            "en": "https://raw.githubusercontent.com/garduu/Immesium—Shards-of-Everywhen/main/imm-files/Second Era Gossipers.png"
 	        }
 	    },
 	    {
@@ -1130,7 +1130,7 @@
 	        "mana_cost": "{2}{R}",
 	        "type": "Creature — Human Pilot ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/garduu/Immesium—Shards-of-Everywhen/blob/main/imm-files/Fifth Era Shardjumper.png"
+	            "en": "https://raw.githubusercontent.com/garduu/Immesium—Shards-of-Everywhen/main/imm-files/Fifth Era Shardjumper.png"
 	        }
 	    },
 	    {
@@ -1139,7 +1139,7 @@
 	        "mana_cost": "{1}{R}",
 	        "type": "Creature — Human Citizen ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/garduu/Immesium—Shards-of-Everywhen/blob/main/imm-files/Enthusiastic Volunteer.png"
+	            "en": "https://raw.githubusercontent.com/garduu/Immesium—Shards-of-Everywhen/main/imm-files/Enthusiastic Volunteer.png"
 	        }
 	    },
 	    {
@@ -1148,7 +1148,7 @@
 	        "mana_cost": "{2}{R}",
 	        "type": "Artifact — Vehicle ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/garduu/Immesium—Shards-of-Everywhen/blob/main/imm-files/Getoutta Dodge.png"
+	            "en": "https://raw.githubusercontent.com/garduu/Immesium—Shards-of-Everywhen/main/imm-files/Getoutta Dodge.png"
 	        }
 	    },
 	    {
@@ -1157,7 +1157,7 @@
 	        "mana_cost": "{3}{R}",
 	        "type": "Creature — Human Pirate ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/garduu/Immesium—Shards-of-Everywhen/blob/main/imm-files/Mergist Scoundrel.png"
+	            "en": "https://raw.githubusercontent.com/garduu/Immesium—Shards-of-Everywhen/main/imm-files/Mergist Scoundrel.png"
 	        }
 	    },
 	    {
@@ -1166,7 +1166,7 @@
 	        "mana_cost": "{4}{R}",
 	        "type": "Creature — Human ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/garduu/Immesium—Shards-of-Everywhen/blob/main/imm-files/Discoverer of Firearms.png"
+	            "en": "https://raw.githubusercontent.com/garduu/Immesium—Shards-of-Everywhen/main/imm-files/Discoverer of Firearms.png"
 	        }
 	    },
 	    {
@@ -1175,7 +1175,7 @@
 	        "mana_cost": "{3}{R}",
 	        "type": "Creature — Skeleton ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/garduu/Immesium—Shards-of-Everywhen/blob/main/imm-files/Flesh-Prison Escapee.png"
+	            "en": "https://raw.githubusercontent.com/garduu/Immesium—Shards-of-Everywhen/main/imm-files/Flesh-Prison Escapee.png"
 	        }
 	    },
 	    {
@@ -1184,7 +1184,7 @@
 	        "mana_cost": "{5}{R}{R}",
 	        "type": "Creature — Human Ranger ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/garduu/Immesium—Shards-of-Everywhen/blob/main/imm-files/First Era Herdmaster.png"
+	            "en": "https://raw.githubusercontent.com/garduu/Immesium—Shards-of-Everywhen/main/imm-files/First Era Herdmaster.png"
 	        }
 	    },
 	    {
@@ -1193,7 +1193,7 @@
 	        "mana_cost": "{R}",
 	        "type": "Sorcery — Revelation ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/garduu/Immesium—Shards-of-Everywhen/blob/main/imm-files/They Know Not of Mercy.png"
+	            "en": "https://raw.githubusercontent.com/garduu/Immesium—Shards-of-Everywhen/main/imm-files/They Know Not of Mercy.png"
 	        }
 	    },
 	    {
@@ -1202,7 +1202,7 @@
 	        "mana_cost": "{2}{R}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/garduu/Immesium—Shards-of-Everywhen/blob/main/imm-files/Savage Seconds.png"
+	            "en": "https://raw.githubusercontent.com/garduu/Immesium—Shards-of-Everywhen/main/imm-files/Savage Seconds.png"
 	        }
 	    },
 	    {
@@ -1211,7 +1211,7 @@
 	        "mana_cost": "{1}{R}",
 	        "type": "Instant — Revelation ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/garduu/Immesium—Shards-of-Everywhen/blob/main/imm-files/We Discard Reason for Folly.png"
+	            "en": "https://raw.githubusercontent.com/garduu/Immesium—Shards-of-Everywhen/main/imm-files/We Discard Reason for Folly.png"
 	        }
 	    },
 	    {
@@ -1220,7 +1220,7 @@
 	        "mana_cost": "{1}{R}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/garduu/Immesium—Shards-of-Everywhen/blob/main/imm-files/Steel Meal.png"
+	            "en": "https://raw.githubusercontent.com/garduu/Immesium—Shards-of-Everywhen/main/imm-files/Steel Meal.png"
 	        }
 	    },
 	    {
@@ -1229,7 +1229,7 @@
 	        "mana_cost": "{2}{R}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/garduu/Immesium—Shards-of-Everywhen/blob/main/imm-files/Interchronal Salvo.png"
+	            "en": "https://raw.githubusercontent.com/garduu/Immesium—Shards-of-Everywhen/main/imm-files/Interchronal Salvo.png"
 	        }
 	    },
 	    {
@@ -1238,7 +1238,7 @@
 	        "mana_cost": "{4}{R}{R}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/garduu/Immesium—Shards-of-Everywhen/blob/main/imm-files/Temporal Tag-Team.png"
+	            "en": "https://raw.githubusercontent.com/garduu/Immesium—Shards-of-Everywhen/main/imm-files/Temporal Tag-Team.png"
 	        }
 	    },
 	    {
@@ -1247,7 +1247,7 @@
 	        "mana_cost": "{3}{R}{R}",
 	        "type": "Legendary Creature — Human Wizard ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/garduu/Immesium—Shards-of-Everywhen/blob/main/imm-files/Toma, Hands of the Clock.png"
+	            "en": "https://raw.githubusercontent.com/garduu/Immesium—Shards-of-Everywhen/main/imm-files/Toma, Hands of the Clock.png"
 	        }
 	    },
 	    {
@@ -1256,7 +1256,7 @@
 	        "mana_cost": "{2}{R}{R}",
 	        "type": "Sorcery — Revelation ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/garduu/Immesium—Shards-of-Everywhen/blob/main/imm-files/The Fighting Will Never Cease.png"
+	            "en": "https://raw.githubusercontent.com/garduu/Immesium—Shards-of-Everywhen/main/imm-files/The Fighting Will Never Cease.png"
 	        }
 	    },
 	    {
@@ -1265,7 +1265,7 @@
 	        "mana_cost": "{R}",
 	        "type": "Creature — Human Wizard ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/garduu/Immesium—Shards-of-Everywhen/blob/main/imm-files/Mage of the Broken Hourglass.png"
+	            "en": "https://raw.githubusercontent.com/garduu/Immesium—Shards-of-Everywhen/main/imm-files/Mage of the Broken Hourglass.png"
 	        }
 	    },
 	    {
@@ -1274,7 +1274,7 @@
 	        "mana_cost": "{2}{R}",
 	        "type": "Creature — Gnome Scientist Doctor ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/garduu/Immesium—Shards-of-Everywhen/blob/main/imm-files/Doctor of Gigawatts.png"
+	            "en": "https://raw.githubusercontent.com/garduu/Immesium—Shards-of-Everywhen/main/imm-files/Doctor of Gigawatts.png"
 	        }
 	    },
 	    {
@@ -1283,7 +1283,7 @@
 	        "mana_cost": "{1}{R}",
 	        "type": "Creature — Human Warrior ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/garduu/Immesium—Shards-of-Everywhen/blob/main/imm-files/Unwavering Fist.png"
+	            "en": "https://raw.githubusercontent.com/garduu/Immesium—Shards-of-Everywhen/main/imm-files/Unwavering Fist.png"
 	        }
 	    },
 	    {
@@ -1292,7 +1292,7 @@
 	        "mana_cost": "{3}{R}{R}",
 	        "type": "Creature — Tiefling Mercenary ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/garduu/Immesium—Shards-of-Everywhen/blob/main/imm-files/Anytime Killer.png"
+	            "en": "https://raw.githubusercontent.com/garduu/Immesium—Shards-of-Everywhen/main/imm-files/Anytime Killer.png"
 	        }
 	    },
 	    {
@@ -1301,7 +1301,7 @@
 	        "mana_cost": "{R}{R}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/garduu/Immesium—Shards-of-Everywhen/blob/main/imm-files/Triple Barrel.png"
+	            "en": "https://raw.githubusercontent.com/garduu/Immesium—Shards-of-Everywhen/main/imm-files/Triple Barrel.png"
 	        }
 	    },
 	    {
@@ -1310,7 +1310,7 @@
 	        "mana_cost": "{1}{R}{R}",
 	        "type": "Sorcery — Revelation ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/garduu/Immesium—Shards-of-Everywhen/blob/main/imm-files/Disaster Becomes Eternal.png"
+	            "en": "https://raw.githubusercontent.com/garduu/Immesium—Shards-of-Everywhen/main/imm-files/Disaster Becomes Eternal.png"
 	        }
 	    },
 	    {
@@ -1319,7 +1319,7 @@
 	        "mana_cost": "{3}{R}",
 	        "type": "Enchantment — Saga ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/garduu/Immesium—Shards-of-Everywhen/blob/main/imm-files/Moments Slip By.png"
+	            "en": "https://raw.githubusercontent.com/garduu/Immesium—Shards-of-Everywhen/main/imm-files/Moments Slip By.png"
 	        }
 	    },
 	    {
@@ -1328,7 +1328,7 @@
 	        "mana_cost": "{R}",
 	        "type": "Creature — Human Ranger ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/garduu/Immesium—Shards-of-Everywhen/blob/main/imm-files/Mergist Calvaryman.png"
+	            "en": "https://raw.githubusercontent.com/garduu/Immesium—Shards-of-Everywhen/main/imm-files/Mergist Calvaryman.png"
 	        }
 	    },
 	    {
@@ -1337,7 +1337,7 @@
 	        "mana_cost": "{1}{R}",
 	        "type": "Creature — Human Noble ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/garduu/Immesium—Shards-of-Everywhen/blob/main/imm-files/Raging Separatist.png"
+	            "en": "https://raw.githubusercontent.com/garduu/Immesium—Shards-of-Everywhen/main/imm-files/Raging Separatist.png"
 	        }
 	    },
 	    {
@@ -1346,7 +1346,7 @@
 	        "mana_cost": "{2}{R}{R}",
 	        "type": "Creature — Horror ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/garduu/Immesium—Shards-of-Everywhen/blob/main/imm-files/Shardbeast Sprinter.png"
+	            "en": "https://raw.githubusercontent.com/garduu/Immesium—Shards-of-Everywhen/main/imm-files/Shardbeast Sprinter.png"
 	        }
 	    },
 	    {
@@ -1355,7 +1355,7 @@
 	        "mana_cost": "{2}{R}",
 	        "type": "Creature — Gnome Wizard ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/garduu/Immesium—Shards-of-Everywhen/blob/main/imm-files/Possibility Collector.png"
+	            "en": "https://raw.githubusercontent.com/garduu/Immesium—Shards-of-Everywhen/main/imm-files/Possibility Collector.png"
 	        }
 	    },
 	    {
@@ -1364,7 +1364,7 @@
 	        "mana_cost": "{4}{R}",
 	        "type": "Artifact — Vehicle ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/garduu/Immesium—Shards-of-Everywhen/blob/main/imm-files/Canonball.png"
+	            "en": "https://raw.githubusercontent.com/garduu/Immesium—Shards-of-Everywhen/main/imm-files/Canonball.png"
 	        }
 	    },
 	    {
@@ -1373,7 +1373,7 @@
 	        "mana_cost": "{4}{R}{R}",
 	        "type": "Creature — Harpy ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/garduu/Immesium—Shards-of-Everywhen/blob/main/imm-files/Scavenger of Exotic Flavors.png"
+	            "en": "https://raw.githubusercontent.com/garduu/Immesium—Shards-of-Everywhen/main/imm-files/Scavenger of Exotic Flavors.png"
 	        }
 	    },
 	    {
@@ -1382,7 +1382,7 @@
 	        "mana_cost": "{1}{R}{R}",
 	        "type": "Creature — Snake Drake ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/garduu/Immesium—Shards-of-Everywhen/blob/main/imm-files/Sky Viper.png"
+	            "en": "https://raw.githubusercontent.com/garduu/Immesium—Shards-of-Everywhen/main/imm-files/Sky Viper.png"
 	        }
 	    },
 	    {
@@ -1391,7 +1391,7 @@
 	        "mana_cost": "{1}{R}",
 	        "type": "Instant — Revelation ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/garduu/Immesium—Shards-of-Everywhen/blob/main/imm-files/Their Power is Beyond Reason.png"
+	            "en": "https://raw.githubusercontent.com/garduu/Immesium—Shards-of-Everywhen/main/imm-files/Their Power is Beyond Reason.png"
 	        }
 	    },
 	    {
@@ -1400,7 +1400,7 @@
 	        "mana_cost": "{2}{R}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/garduu/Immesium—Shards-of-Everywhen/blob/main/imm-files/Bullet Time.png"
+	            "en": "https://raw.githubusercontent.com/garduu/Immesium—Shards-of-Everywhen/main/imm-files/Bullet Time.png"
 	        }
 	    },
 	    {
@@ -1409,7 +1409,7 @@
 	        "mana_cost": "{2}{R}{R}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/garduu/Immesium—Shards-of-Everywhen/blob/main/imm-files/Inciting Whispers.png"
+	            "en": "https://raw.githubusercontent.com/garduu/Immesium—Shards-of-Everywhen/main/imm-files/Inciting Whispers.png"
 	        }
 	    },
 	    {
@@ -1418,7 +1418,7 @@
 	        "mana_cost": "{1}{R}{R}",
 	        "type": "Sorcery — Revelation ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/garduu/Immesium—Shards-of-Everywhen/blob/main/imm-files/We Will Relinquish All.png"
+	            "en": "https://raw.githubusercontent.com/garduu/Immesium—Shards-of-Everywhen/main/imm-files/We Will Relinquish All.png"
 	        }
 	    },
 	    {
@@ -1427,7 +1427,7 @@
 	        "mana_cost": "{3}{R}{R}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/garduu/Immesium—Shards-of-Everywhen/blob/main/imm-files/Shadow Lightning.png"
+	            "en": "https://raw.githubusercontent.com/garduu/Immesium—Shards-of-Everywhen/main/imm-files/Shadow Lightning.png"
 	        }
 	    },
 	    {
@@ -1436,7 +1436,7 @@
 	        "mana_cost": "{3}{R}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/garduu/Immesium—Shards-of-Everywhen/blob/main/imm-files/Variants of Fate.png"
+	            "en": "https://raw.githubusercontent.com/garduu/Immesium—Shards-of-Everywhen/main/imm-files/Variants of Fate.png"
 	        }
 	    },
 	    {
@@ -1445,7 +1445,7 @@
 	        "mana_cost": "{G}",
 	        "type": "Creature — Elf Warlock ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/garduu/Immesium—Shards-of-Everywhen/blob/main/imm-files/Shardbeast Seeker.png"
+	            "en": "https://raw.githubusercontent.com/garduu/Immesium—Shards-of-Everywhen/main/imm-files/Shardbeast Seeker.png"
 	        }
 	    },
 	    {
@@ -1454,7 +1454,7 @@
 	        "mana_cost": "{1}{G}",
 	        "type": "Creature — Plant Horror ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/garduu/Immesium—Shards-of-Everywhen/blob/main/imm-files/Watchvines.png"
+	            "en": "https://raw.githubusercontent.com/garduu/Immesium—Shards-of-Everywhen/main/imm-files/Watchvines.png"
 	        }
 	    },
 	    {
@@ -1463,7 +1463,7 @@
 	        "mana_cost": "{2}{G}",
 	        "type": "Creature — Human ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/garduu/Immesium—Shards-of-Everywhen/blob/main/imm-files/First Era Firemaker.png"
+	            "en": "https://raw.githubusercontent.com/garduu/Immesium—Shards-of-Everywhen/main/imm-files/First Era Firemaker.png"
 	        }
 	    },
 	    {
@@ -1472,7 +1472,7 @@
 	        "mana_cost": "{1}{G}",
 	        "type": "Creature — Human Ranger ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/garduu/Immesium—Shards-of-Everywhen/blob/main/imm-files/Ancient Hunter.png"
+	            "en": "https://raw.githubusercontent.com/garduu/Immesium—Shards-of-Everywhen/main/imm-files/Ancient Hunter.png"
 	        }
 	    },
 	    {
@@ -1481,7 +1481,7 @@
 	        "mana_cost": "{2}{G}",
 	        "type": "Creature — Dwarf Elf Human ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/garduu/Immesium—Shards-of-Everywhen/blob/main/imm-files/Mergist Recon Squad.png"
+	            "en": "https://raw.githubusercontent.com/garduu/Immesium—Shards-of-Everywhen/main/imm-files/Mergist Recon Squad.png"
 	        }
 	    },
 	    {
@@ -1490,7 +1490,7 @@
 	        "mana_cost": "{3}{G}",
 	        "type": "Creature — Dwarf Citizen ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/garduu/Immesium—Shards-of-Everywhen/blob/main/imm-files/Shadowed Separatist.png"
+	            "en": "https://raw.githubusercontent.com/garduu/Immesium—Shards-of-Everywhen/main/imm-files/Shadowed Separatist.png"
 	        }
 	    },
 	    {
@@ -1499,7 +1499,7 @@
 	        "mana_cost": "{3}{G}",
 	        "type": "Artifact — Vehicle ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/garduu/Immesium—Shards-of-Everywhen/blob/main/imm-files/Thunderhoof Chariot.png"
+	            "en": "https://raw.githubusercontent.com/garduu/Immesium—Shards-of-Everywhen/main/imm-files/Thunderhoof Chariot.png"
 	        }
 	    },
 	    {
@@ -1508,7 +1508,7 @@
 	        "mana_cost": "{3}{G}{G}",
 	        "type": "Creature — Horror ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/garduu/Immesium—Shards-of-Everywhen/blob/main/imm-files/Invading Shardbeast.png"
+	            "en": "https://raw.githubusercontent.com/garduu/Immesium—Shards-of-Everywhen/main/imm-files/Invading Shardbeast.png"
 	        }
 	    },
 	    {
@@ -1517,7 +1517,7 @@
 	        "mana_cost": "{4}{G}{G}",
 	        "type": "Creature — Elephant ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/garduu/Immesium—Shards-of-Everywhen/blob/main/imm-files/First Era Mammoth.png"
+	            "en": "https://raw.githubusercontent.com/garduu/Immesium—Shards-of-Everywhen/main/imm-files/First Era Mammoth.png"
 	        }
 	    },
 	    {
@@ -1526,7 +1526,7 @@
 	        "mana_cost": "{6}{G}{G}",
 	        "type": "Creature — Dinosaur ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/garduu/Immesium—Shards-of-Everywhen/blob/main/imm-files/Migratiming Spineherd.png"
+	            "en": "https://raw.githubusercontent.com/garduu/Immesium—Shards-of-Everywhen/main/imm-files/Migratiming Spineherd.png"
 	        }
 	    },
 	    {
@@ -1535,7 +1535,7 @@
 	        "mana_cost": "{G}",
 	        "type": "Sorcery — Revelation ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/garduu/Immesium—Shards-of-Everywhen/blob/main/imm-files/Yesterday Never Dies.png"
+	            "en": "https://raw.githubusercontent.com/garduu/Immesium—Shards-of-Everywhen/main/imm-files/Yesterday Never Dies.png"
 	        }
 	    },
 	    {
@@ -1544,7 +1544,7 @@
 	        "mana_cost": "{3}{G}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/garduu/Immesium—Shards-of-Everywhen/blob/main/imm-files/Bite Out of Time.png"
+	            "en": "https://raw.githubusercontent.com/garduu/Immesium—Shards-of-Everywhen/main/imm-files/Bite Out of Time.png"
 	        }
 	    },
 	    {
@@ -1553,7 +1553,7 @@
 	        "mana_cost": "{1}{G}",
 	        "type": "Sorcery — Revelation ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/garduu/Immesium—Shards-of-Everywhen/blob/main/imm-files/Fear Looms Large.png"
+	            "en": "https://raw.githubusercontent.com/garduu/Immesium—Shards-of-Everywhen/main/imm-files/Fear Looms Large.png"
 	        }
 	    },
 	    {
@@ -1562,7 +1562,7 @@
 	        "mana_cost": "{2}{G}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/garduu/Immesium—Shards-of-Everywhen/blob/main/imm-files/Downtime.png"
+	            "en": "https://raw.githubusercontent.com/garduu/Immesium—Shards-of-Everywhen/main/imm-files/Downtime.png"
 	        }
 	    },
 	    {
@@ -1571,7 +1571,7 @@
 	        "mana_cost": "{2}{G}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/garduu/Immesium—Shards-of-Everywhen/blob/main/imm-files/Harrowing Reformation.png"
+	            "en": "https://raw.githubusercontent.com/garduu/Immesium—Shards-of-Everywhen/main/imm-files/Harrowing Reformation.png"
 	        }
 	    },
 	    {
@@ -1580,7 +1580,7 @@
 	        "mana_cost": "{3}{G}{G}",
 	        "type": "Creature — Ooze ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/garduu/Immesium—Shards-of-Everywhen/blob/main/imm-files/Aethermerge Byproduct.png"
+	            "en": "https://raw.githubusercontent.com/garduu/Immesium—Shards-of-Everywhen/main/imm-files/Aethermerge Byproduct.png"
 	        }
 	    },
 	    {
@@ -1589,7 +1589,7 @@
 	        "mana_cost": "{X}{G}{G}",
 	        "type": "Sorcery — Revelation ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/garduu/Immesium—Shards-of-Everywhen/blob/main/imm-files/The Dead Never Died.png"
+	            "en": "https://raw.githubusercontent.com/garduu/Immesium—Shards-of-Everywhen/main/imm-files/The Dead Never Died.png"
 	        }
 	    },
 	    {
@@ -1598,7 +1598,7 @@
 	        "mana_cost": "{1}{G}",
 	        "type": "Creature — Dinosaur ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/garduu/Immesium—Shards-of-Everywhen/blob/main/imm-files/Neoceratops.png"
+	            "en": "https://raw.githubusercontent.com/garduu/Immesium—Shards-of-Everywhen/main/imm-files/Neoceratops.png"
 	        }
 	    },
 	    {
@@ -1607,7 +1607,7 @@
 	        "mana_cost": "{G}{G}{G}",
 	        "type": "Legendary Creature — Human Ranger ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/garduu/Immesium—Shards-of-Everywhen/blob/main/imm-files/Zoe, History Seeker.png"
+	            "en": "https://raw.githubusercontent.com/garduu/Immesium—Shards-of-Everywhen/main/imm-files/Zoe, History Seeker.png"
 	        }
 	    },
 	    {
@@ -1616,7 +1616,7 @@
 	        "mana_cost": "{2}{G}",
 	        "type": "Creature — Human Warrior ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/garduu/Immesium—Shards-of-Everywhen/blob/main/imm-files/First Era Separatists.png"
+	            "en": "https://raw.githubusercontent.com/garduu/Immesium—Shards-of-Everywhen/main/imm-files/First Era Separatists.png"
 	        }
 	    },
 	    {
@@ -1625,7 +1625,7 @@
 	        "mana_cost": "{2}{G}{G}",
 	        "type": "Creature — Dinosaur ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/garduu/Immesium—Shards-of-Everywhen/blob/main/imm-files/Snaplodon.png"
+	            "en": "https://raw.githubusercontent.com/garduu/Immesium—Shards-of-Everywhen/main/imm-files/Snaplodon.png"
 	        }
 	    },
 	    {
@@ -1634,7 +1634,7 @@
 	        "mana_cost": "{3}{G}{G}",
 	        "type": "Artifact — Vehicle ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/garduu/Immesium—Shards-of-Everywhen/blob/main/imm-files/Ever-Lengthening Express.png"
+	            "en": "https://raw.githubusercontent.com/garduu/Immesium—Shards-of-Everywhen/main/imm-files/Ever-Lengthening Express.png"
 	        }
 	    },
 	    {
@@ -1643,7 +1643,7 @@
 	        "mana_cost": "{2}{G}{G}{G}",
 	        "type": "Sorcery — Revelation ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/garduu/Immesium—Shards-of-Everywhen/blob/main/imm-files/I Cannot Forget.png"
+	            "en": "https://raw.githubusercontent.com/garduu/Immesium—Shards-of-Everywhen/main/imm-files/I Cannot Forget.png"
 	        }
 	    },
 	    {
@@ -1652,7 +1652,7 @@
 	        "mana_cost": "{3}{G}",
 	        "type": "Enchantment — Saga ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/garduu/Immesium—Shards-of-Everywhen/blob/main/imm-files/Ancient Lands Reemerge.png"
+	            "en": "https://raw.githubusercontent.com/garduu/Immesium—Shards-of-Everywhen/main/imm-files/Ancient Lands Reemerge.png"
 	        }
 	    },
 	    {
@@ -1661,7 +1661,7 @@
 	        "mana_cost": "{1}{G}",
 	        "type": "Creature — Human Citizen ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/garduu/Immesium—Shards-of-Everywhen/blob/main/imm-files/Fourth Era Separatist.png"
+	            "en": "https://raw.githubusercontent.com/garduu/Immesium—Shards-of-Everywhen/main/imm-files/Fourth Era Separatist.png"
 	        }
 	    },
 	    {
@@ -1670,7 +1670,7 @@
 	        "mana_cost": "{1}{G}",
 	        "type": "Artifact — Vehicle ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/garduu/Immesium—Shards-of-Everywhen/blob/main/imm-files/Shoreseeker.png"
+	            "en": "https://raw.githubusercontent.com/garduu/Immesium—Shards-of-Everywhen/main/imm-files/Shoreseeker.png"
 	        }
 	    },
 	    {
@@ -1679,7 +1679,7 @@
 	        "mana_cost": "{1}{G}{G}",
 	        "type": "Creature — Dwarf Scientist ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/garduu/Immesium—Shards-of-Everywhen/blob/main/imm-files/Timeforge Stabilizers.png"
+	            "en": "https://raw.githubusercontent.com/garduu/Immesium—Shards-of-Everywhen/main/imm-files/Timeforge Stabilizers.png"
 	        }
 	    },
 	    {
@@ -1688,7 +1688,7 @@
 	        "mana_cost": "{2}{G}",
 	        "type": "Creature — Human Noble ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/garduu/Immesium—Shards-of-Everywhen/blob/main/imm-files/Voice for Once-Dead Echoes.png"
+	            "en": "https://raw.githubusercontent.com/garduu/Immesium—Shards-of-Everywhen/main/imm-files/Voice for Once-Dead Echoes.png"
 	        }
 	    },
 	    {
@@ -1697,7 +1697,7 @@
 	        "mana_cost": "{2}{G}{G}",
 	        "type": "Creature — Human Artificer ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/garduu/Immesium—Shards-of-Everywhen/blob/main/imm-files/Fifth Era Mechanic.png"
+	            "en": "https://raw.githubusercontent.com/garduu/Immesium—Shards-of-Everywhen/main/imm-files/Fifth Era Mechanic.png"
 	        }
 	    },
 	    {
@@ -1706,7 +1706,7 @@
 	        "mana_cost": "{4}{G}",
 	        "type": "Creature — Dwarf Artist ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/garduu/Immesium—Shards-of-Everywhen/blob/main/imm-files/Second Era Artisan.png"
+	            "en": "https://raw.githubusercontent.com/garduu/Immesium—Shards-of-Everywhen/main/imm-files/Second Era Artisan.png"
 	        }
 	    },
 	    {
@@ -1715,7 +1715,7 @@
 	        "mana_cost": "{3}{G}",
 	        "type": "Creature — Human Ranger ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/garduu/Immesium—Shards-of-Everywhen/blob/main/imm-files/First Era Timesavers.png"
+	            "en": "https://raw.githubusercontent.com/garduu/Immesium—Shards-of-Everywhen/main/imm-files/First Era Timesavers.png"
 	        }
 	    },
 	    {
@@ -1724,7 +1724,7 @@
 	        "mana_cost": "{4}{G}{G}",
 	        "type": "Creature — Horror ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/garduu/Immesium—Shards-of-Everywhen/blob/main/imm-files/Time Cruncher.png"
+	            "en": "https://raw.githubusercontent.com/garduu/Immesium—Shards-of-Everywhen/main/imm-files/Time Cruncher.png"
 	        }
 	    },
 	    {
@@ -1733,7 +1733,7 @@
 	        "mana_cost": "{9}{G}{G}",
 	        "type": "Creature — Cyclops Peasant ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/garduu/Immesium—Shards-of-Everywhen/blob/main/imm-files/Hunter-Gatherer.png"
+	            "en": "https://raw.githubusercontent.com/garduu/Immesium—Shards-of-Everywhen/main/imm-files/Hunter-Gatherer.png"
 	        }
 	    },
 	    {
@@ -1742,7 +1742,7 @@
 	        "mana_cost": "{3}{G}{G}",
 	        "type": "Sorcery — Revelation ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/garduu/Immesium—Shards-of-Everywhen/blob/main/imm-files/Violence is Their Nature.png"
+	            "en": "https://raw.githubusercontent.com/garduu/Immesium—Shards-of-Everywhen/main/imm-files/Violence is Their Nature.png"
 	        }
 	    },
 	    {
@@ -1751,7 +1751,7 @@
 	        "mana_cost": "{3}{G}",
 	        "type": "Sorcery — Revelation ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/garduu/Immesium—Shards-of-Everywhen/blob/main/imm-files/There is Evil Within Us.png"
+	            "en": "https://raw.githubusercontent.com/garduu/Immesium—Shards-of-Everywhen/main/imm-files/There is Evil Within Us.png"
 	        }
 	    },
 	    {
@@ -1760,7 +1760,7 @@
 	        "mana_cost": "{3}{G}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/garduu/Immesium—Shards-of-Everywhen/blob/main/imm-files/Road to Somewhen.png"
+	            "en": "https://raw.githubusercontent.com/garduu/Immesium—Shards-of-Everywhen/main/imm-files/Road to Somewhen.png"
 	        }
 	    },
 	    {
@@ -1769,7 +1769,7 @@
 	        "mana_cost": "{4}{G}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/garduu/Immesium—Shards-of-Everywhen/blob/main/imm-files/Horrifying Strength.png"
+	            "en": "https://raw.githubusercontent.com/garduu/Immesium—Shards-of-Everywhen/main/imm-files/Horrifying Strength.png"
 	        }
 	    },
 	    {
@@ -1778,7 +1778,7 @@
 	        "mana_cost": "{2}{W}{U}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/garduu/Immesium—Shards-of-Everywhen/blob/main/imm-files/The Greatest Minds of all Time.png"
+	            "en": "https://raw.githubusercontent.com/garduu/Immesium—Shards-of-Everywhen/main/imm-files/The Greatest Minds of all Time.png"
 	        }
 	    },
 	    {
@@ -1787,7 +1787,7 @@
 	        "mana_cost": "{4}{U}{B}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/garduu/Immesium—Shards-of-Everywhen/blob/main/imm-files/Heed Their Call.png"
+	            "en": "https://raw.githubusercontent.com/garduu/Immesium—Shards-of-Everywhen/main/imm-files/Heed Their Call.png"
 	        }
 	    },
 	    {
@@ -1796,7 +1796,7 @@
 	        "mana_cost": "{1}{B}{R}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/garduu/Immesium—Shards-of-Everywhen/blob/main/imm-files/Time to Die.png"
+	            "en": "https://raw.githubusercontent.com/garduu/Immesium—Shards-of-Everywhen/main/imm-files/Time to Die.png"
 	        }
 	    },
 	    {
@@ -1805,7 +1805,7 @@
 	        "mana_cost": "{3}{R}{G}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/garduu/Immesium—Shards-of-Everywhen/blob/main/imm-files/Embrace New Ways.png"
+	            "en": "https://raw.githubusercontent.com/garduu/Immesium—Shards-of-Everywhen/main/imm-files/Embrace New Ways.png"
 	        }
 	    },
 	    {
@@ -1814,7 +1814,7 @@
 	        "mana_cost": "{1}{G}{W}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/garduu/Immesium—Shards-of-Everywhen/blob/main/imm-files/Revelation of Supremacy.png"
+	            "en": "https://raw.githubusercontent.com/garduu/Immesium—Shards-of-Everywhen/main/imm-files/Revelation of Supremacy.png"
 	        }
 	    },
 	    {
@@ -1823,7 +1823,7 @@
 	        "mana_cost": "{X}{X}{W}{B}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/garduu/Immesium—Shards-of-Everywhen/blob/main/imm-files/Relive the End.png"
+	            "en": "https://raw.githubusercontent.com/garduu/Immesium—Shards-of-Everywhen/main/imm-files/Relive the End.png"
 	        }
 	    },
 	    {
@@ -1832,7 +1832,7 @@
 	        "mana_cost": "{1}{U}{R}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/garduu/Immesium—Shards-of-Everywhen/blob/main/imm-files/Reject Reality.png"
+	            "en": "https://raw.githubusercontent.com/garduu/Immesium—Shards-of-Everywhen/main/imm-files/Reject Reality.png"
 	        }
 	    },
 	    {
@@ -1841,7 +1841,7 @@
 	        "mana_cost": "{3}{G}{U}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/garduu/Immesium—Shards-of-Everywhen/blob/main/imm-files/Discover the Forgotten.png"
+	            "en": "https://raw.githubusercontent.com/garduu/Immesium—Shards-of-Everywhen/main/imm-files/Discover the Forgotten.png"
 	        }
 	    },
 	    {
@@ -1850,7 +1850,7 @@
 	        "mana_cost": "{2}{B}{G}",
 	        "type": "Creature — Horror ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/garduu/Immesium—Shards-of-Everywhen/blob/main/imm-files/Siphoner of Seconds.png"
+	            "en": "https://raw.githubusercontent.com/garduu/Immesium—Shards-of-Everywhen/main/imm-files/Siphoner of Seconds.png"
 	        }
 	    },
 	    {
@@ -1859,7 +1859,7 @@
 	        "mana_cost": "{1}{R}{W}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/garduu/Immesium—Shards-of-Everywhen/blob/main/imm-files/Autopilot.png"
+	            "en": "https://raw.githubusercontent.com/garduu/Immesium—Shards-of-Everywhen/main/imm-files/Autopilot.png"
 	        }
 	    },
 	    {
@@ -1868,7 +1868,7 @@
 	        "mana_cost": "{1}{U}{R}",
 	        "type": "Creature — Faerie ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/garduu/Immesium—Shards-of-Everywhen/blob/main/imm-files/Fae Frolicker.png"
+	            "en": "https://raw.githubusercontent.com/garduu/Immesium—Shards-of-Everywhen/main/imm-files/Fae Frolicker.png"
 	        }
 	    },
 	    {
@@ -1877,7 +1877,7 @@
 	        "mana_cost": "{2}{W}{B}",
 	        "type": "Creature — Human Warrior ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/garduu/Immesium—Shards-of-Everywhen/blob/main/imm-files/Separatist Timealigner.png"
+	            "en": "https://raw.githubusercontent.com/garduu/Immesium—Shards-of-Everywhen/main/imm-files/Separatist Timealigner.png"
 	        }
 	    },
 	    {
@@ -1886,7 +1886,7 @@
 	        "mana_cost": "{3}{W}{U}",
 	        "type": "Creature — Human Cleric ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/garduu/Immesium—Shards-of-Everywhen/blob/main/imm-files/Esia's Faithful.png"
+	            "en": "https://raw.githubusercontent.com/garduu/Immesium—Shards-of-Everywhen/main/imm-files/Esia's Faithful.png"
 	        }
 	    },
 	    {
@@ -1895,7 +1895,7 @@
 	        "mana_cost": "{3}{R}{G}",
 	        "type": "Creature — Human Knight ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/garduu/Immesium—Shards-of-Everywhen/blob/main/imm-files/Dinoback Bowman.png"
+	            "en": "https://raw.githubusercontent.com/garduu/Immesium—Shards-of-Everywhen/main/imm-files/Dinoback Bowman.png"
 	        }
 	    },
 	    {
@@ -1904,7 +1904,7 @@
 	        "mana_cost": "{1}{B}{R}",
 	        "type": "Creature — Horror ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/garduu/Immesium—Shards-of-Everywhen/blob/main/imm-files/Marchers of Despair.png"
+	            "en": "https://raw.githubusercontent.com/garduu/Immesium—Shards-of-Everywhen/main/imm-files/Marchers of Despair.png"
 	        }
 	    },
 	    {
@@ -1913,7 +1913,7 @@
 	        "mana_cost": "{1}{U}{B}",
 	        "type": "Creature — Human ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/garduu/Immesium—Shards-of-Everywhen/blob/main/imm-files/Infinity Perseverater.png"
+	            "en": "https://raw.githubusercontent.com/garduu/Immesium—Shards-of-Everywhen/main/imm-files/Infinity Perseverater.png"
 	        }
 	    },
 	    {
@@ -1922,7 +1922,7 @@
 	        "mana_cost": "{3}{G}{W}",
 	        "type": "Creature — Human Dinosaur Scout ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/garduu/Immesium—Shards-of-Everywhen/blob/main/imm-files/Mergist Mavericks.png"
+	            "en": "https://raw.githubusercontent.com/garduu/Immesium—Shards-of-Everywhen/main/imm-files/Mergist Mavericks.png"
 	        }
 	    },
 	    {
@@ -1931,7 +1931,7 @@
 	        "mana_cost": "{B}{G}",
 	        "type": "Creature — Mutant Beast ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/garduu/Immesium—Shards-of-Everywhen/blob/main/imm-files/Harbinger of Fractures.png"
+	            "en": "https://raw.githubusercontent.com/garduu/Immesium—Shards-of-Everywhen/main/imm-files/Harbinger of Fractures.png"
 	        }
 	    },
 	    {
@@ -1940,7 +1940,7 @@
 	        "mana_cost": "{2}{R}{W}",
 	        "type": "Artifact — Vehicle ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/garduu/Immesium—Shards-of-Everywhen/blob/main/imm-files/Mindlink Mech.png"
+	            "en": "https://raw.githubusercontent.com/garduu/Immesium—Shards-of-Everywhen/main/imm-files/Mindlink Mech.png"
 	        }
 	    },
 	    {
@@ -1949,7 +1949,7 @@
 	        "mana_cost": "{1}{G}{U}",
 	        "type": "Creature — Gnome Pilot ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/garduu/Immesium—Shards-of-Everywhen/blob/main/imm-files/Veri's Ace.png"
+	            "en": "https://raw.githubusercontent.com/garduu/Immesium—Shards-of-Everywhen/main/imm-files/Veri's Ace.png"
 	        }
 	    },
 	    {
@@ -1958,7 +1958,7 @@
 	        "mana_cost": "{2}",
 	        "type": "Artifact Creature — Robot ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/garduu/Immesium—Shards-of-Everywhen/blob/main/imm-files/Data Collection Unit.png"
+	            "en": "https://raw.githubusercontent.com/garduu/Immesium—Shards-of-Everywhen/main/imm-files/Data Collection Unit.png"
 	        }
 	    },
 	    {
@@ -1967,7 +1967,7 @@
 	        "mana_cost": "{4}",
 	        "type": "Artifact — Vehicle ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/garduu/Immesium—Shards-of-Everywhen/blob/main/imm-files/Tomorrowalker.png"
+	            "en": "https://raw.githubusercontent.com/garduu/Immesium—Shards-of-Everywhen/main/imm-files/Tomorrowalker.png"
 	        }
 	    },
 	    {
@@ -1976,7 +1976,7 @@
 	        "mana_cost": "{3}",
 	        "type": "Sorcery — Revelation ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/garduu/Immesium—Shards-of-Everywhen/blob/main/imm-files/Their Strength is Alluring.png"
+	            "en": "https://raw.githubusercontent.com/garduu/Immesium—Shards-of-Everywhen/main/imm-files/Their Strength is Alluring.png"
 	        }
 	    },
 	    {
@@ -1985,7 +1985,7 @@
 	        "mana_cost": "{5}",
 	        "type": "Enchantment — Shard ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/garduu/Immesium—Shards-of-Everywhen/blob/main/imm-files/Study Time.png"
+	            "en": "https://raw.githubusercontent.com/garduu/Immesium—Shards-of-Everywhen/main/imm-files/Study Time.png"
 	        }
 	    },
 	    {
@@ -1994,7 +1994,7 @@
 	        "mana_cost": "{3}",
 	        "type": "Artifact",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/garduu/Immesium—Shards-of-Everywhen/blob/main/imm-files/Temportalizer.png"
+	            "en": "https://raw.githubusercontent.com/garduu/Immesium—Shards-of-Everywhen/main/imm-files/Temportalizer.png"
 	        }
 	    },
 	    {
@@ -2003,7 +2003,7 @@
 	        "mana_cost": "{1}",
 	        "type": "Enchantment — Shard ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/garduu/Immesium—Shards-of-Everywhen/blob/main/imm-files/Hole in the Now.png"
+	            "en": "https://raw.githubusercontent.com/garduu/Immesium—Shards-of-Everywhen/main/imm-files/Hole in the Now.png"
 	        }
 	    },
 	    {
@@ -2012,7 +2012,7 @@
 	        "mana_cost": "{4}",
 	        "type": "Artifact Creature — Robot ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/garduu/Immesium—Shards-of-Everywhen/blob/main/imm-files/Chronoshield Prototype.png"
+	            "en": "https://raw.githubusercontent.com/garduu/Immesium—Shards-of-Everywhen/main/imm-files/Chronoshield Prototype.png"
 	        }
 	    },
 	    {
@@ -2021,7 +2021,7 @@
 	        "mana_cost": "{1}",
 	        "type": "Artifact Creature — Robot Pilot ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/garduu/Immesium—Shards-of-Everywhen/blob/main/imm-files/Installed Drivers.png"
+	            "en": "https://raw.githubusercontent.com/garduu/Immesium—Shards-of-Everywhen/main/imm-files/Installed Drivers.png"
 	        }
 	    },
 	    {
@@ -2030,7 +2030,7 @@
 	        "mana_cost": "{7}",
 	        "type": "Artifact Creature — Robot ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/garduu/Immesium—Shards-of-Everywhen/blob/main/imm-files/Ejected Automaton.png"
+	            "en": "https://raw.githubusercontent.com/garduu/Immesium—Shards-of-Everywhen/main/imm-files/Ejected Automaton.png"
 	        }
 	    },
 	    {
@@ -2039,7 +2039,7 @@
 	        "mana_cost": "{4}",
 	        "type": "Sorcery — Revelation ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/garduu/Immesium—Shards-of-Everywhen/blob/main/imm-files/They Are Everywhen.png"
+	            "en": "https://raw.githubusercontent.com/garduu/Immesium—Shards-of-Everywhen/main/imm-files/They Are Everywhen.png"
 	        }
 	    },
 	    {
@@ -2048,7 +2048,7 @@
 	        "mana_cost": "{2}",
 	        "type": "Artifact Creature — Equipment Golem ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/garduu/Immesium—Shards-of-Everywhen/blob/main/imm-files/Magimech Stonesuit.png"
+	            "en": "https://raw.githubusercontent.com/garduu/Immesium—Shards-of-Everywhen/main/imm-files/Magimech Stonesuit.png"
 	        }
 	    },
 	    {
@@ -2057,7 +2057,7 @@
 	        "mana_cost": "{4}",
 	        "type": "Artifact — Vehicle ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/garduu/Immesium—Shards-of-Everywhen/blob/main/imm-files/Dual Wheeler.png"
+	            "en": "https://raw.githubusercontent.com/garduu/Immesium—Shards-of-Everywhen/main/imm-files/Dual Wheeler.png"
 	        }
 	    },
 	    {
@@ -2066,7 +2066,7 @@
 	        "mana_cost": "{2}{W}",
 	        "type": "Sorcery — Revelation ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/garduu/Immesium—Shards-of-Everywhen/blob/main/imm-files/No Rest.png"
+	            "en": "https://raw.githubusercontent.com/garduu/Immesium—Shards-of-Everywhen/main/imm-files/No Rest.png"
 	        }
 	    },
 	    {
@@ -2075,7 +2075,7 @@
 	        "mana_cost": "{1}{U}",
 	        "type": "Enchantment",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/garduu/Immesium—Shards-of-Everywhen/blob/main/imm-files/Hole Between Eras.png"
+	            "en": "https://raw.githubusercontent.com/garduu/Immesium—Shards-of-Everywhen/main/imm-files/Hole Between Eras.png"
 	        }
 	    },
 	    {
@@ -2084,7 +2084,7 @@
 	        "mana_cost": "{1}{B}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/garduu/Immesium—Shards-of-Everywhen/blob/main/imm-files/Live Out Your Life Elsewhen.png"
+	            "en": "https://raw.githubusercontent.com/garduu/Immesium—Shards-of-Everywhen/main/imm-files/Live Out Your Life Elsewhen.png"
 	        }
 	    },
 	    {
@@ -2093,7 +2093,7 @@
 	        "mana_cost": "{3}{R}",
 	        "type": "Enchantment",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/garduu/Immesium—Shards-of-Everywhen/blob/main/imm-files/Walls Are Not Enough.png"
+	            "en": "https://raw.githubusercontent.com/garduu/Immesium—Shards-of-Everywhen/main/imm-files/Walls Are Not Enough.png"
 	        }
 	    },
 	    {
@@ -2102,7 +2102,7 @@
 	        "mana_cost": "{1}{G}{G}",
 	        "type": "Enchantment — Shard ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/garduu/Immesium—Shards-of-Everywhen/blob/main/imm-files/Liminal Respite.png"
+	            "en": "https://raw.githubusercontent.com/garduu/Immesium—Shards-of-Everywhen/main/imm-files/Liminal Respite.png"
 	        }
 	    },
 	    {
@@ -2111,7 +2111,7 @@
 	        "mana_cost": "{1}{W}{U}",
 	        "type": "Creature — Human Shaman ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/garduu/Immesium—Shards-of-Everywhen/blob/main/imm-files/First Era Smokeseer.png"
+	            "en": "https://raw.githubusercontent.com/garduu/Immesium—Shards-of-Everywhen/main/imm-files/First Era Smokeseer.png"
 	        }
 	    },
 	    {
@@ -2120,7 +2120,7 @@
 	        "mana_cost": "{U}{B}",
 	        "type": "Creature — Human Peasant ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/garduu/Immesium—Shards-of-Everywhen/blob/main/imm-files/Separatist Spy.png"
+	            "en": "https://raw.githubusercontent.com/garduu/Immesium—Shards-of-Everywhen/main/imm-files/Separatist Spy.png"
 	        }
 	    },
 	    {
@@ -2129,7 +2129,7 @@
 	        "mana_cost": "{2}{B}{R}",
 	        "type": "Creature — Horror ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/garduu/Immesium—Shards-of-Everywhen/blob/main/imm-files/Shardbeast Swarm.png"
+	            "en": "https://raw.githubusercontent.com/garduu/Immesium—Shards-of-Everywhen/main/imm-files/Shardbeast Swarm.png"
 	        }
 	    },
 	    {
@@ -2138,7 +2138,7 @@
 	        "mana_cost": "{1}{R}{G}",
 	        "type": "Creature — Dwarf Artificer Rogue ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/garduu/Immesium—Shards-of-Everywhen/blob/main/imm-files/Past Pilferer.png"
+	            "en": "https://raw.githubusercontent.com/garduu/Immesium—Shards-of-Everywhen/main/imm-files/Past Pilferer.png"
 	        }
 	    },
 	    {
@@ -2147,7 +2147,7 @@
 	        "mana_cost": "{2}{G}{W}",
 	        "type": "Creature — Dwarf Nomad ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/garduu/Immesium—Shards-of-Everywhen/blob/main/imm-files/Loopbound Searcher.png"
+	            "en": "https://raw.githubusercontent.com/garduu/Immesium—Shards-of-Everywhen/main/imm-files/Loopbound Searcher.png"
 	        }
 	    },
 	    {
@@ -2156,7 +2156,7 @@
 	        "mana_cost": "{W}{B}",
 	        "type": "Creature — Dwarf Advisor ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/garduu/Immesium—Shards-of-Everywhen/blob/main/imm-files/Separatist Strategist.png"
+	            "en": "https://raw.githubusercontent.com/garduu/Immesium—Shards-of-Everywhen/main/imm-files/Separatist Strategist.png"
 	        }
 	    },
 	    {
@@ -2165,7 +2165,7 @@
 	        "mana_cost": "{6}{B}{G}",
 	        "type": "Creature — Giant Skeleton ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/garduu/Immesium—Shards-of-Everywhen/blob/main/imm-files/Bones from the Between.png"
+	            "en": "https://raw.githubusercontent.com/garduu/Immesium—Shards-of-Everywhen/main/imm-files/Bones from the Between.png"
 	        }
 	    },
 	    {
@@ -2174,7 +2174,7 @@
 	        "mana_cost": "{3}{G}{U}",
 	        "type": "Artifact Creature — Knight ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/garduu/Immesium—Shards-of-Everywhen/blob/main/imm-files/Syr Iron.png"
+	            "en": "https://raw.githubusercontent.com/garduu/Immesium—Shards-of-Everywhen/main/imm-files/Syr Iron.png"
 	        }
 	    },
 	    {
@@ -2183,7 +2183,7 @@
 	        "mana_cost": "{U}{R}",
 	        "type": "Creature — Ooze Rogue ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/garduu/Immesium—Shards-of-Everywhen/blob/main/imm-files/Nullification Plasman.png"
+	            "en": "https://raw.githubusercontent.com/garduu/Immesium—Shards-of-Everywhen/main/imm-files/Nullification Plasman.png"
 	        }
 	    },
 	    {
@@ -2192,7 +2192,7 @@
 	        "mana_cost": "{4}{R}{W}",
 	        "type": "Creature — Dinosaur ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/garduu/Immesium—Shards-of-Everywhen/blob/main/imm-files/Ptrained Speedwing.png"
+	            "en": "https://raw.githubusercontent.com/garduu/Immesium—Shards-of-Everywhen/main/imm-files/Ptrained Speedwing.png"
 	        }
 	    },
 	    {
@@ -2201,7 +2201,7 @@
 	        "mana_cost": "{3}",
 	        "type": "Artifact",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/garduu/Immesium—Shards-of-Everywhen/blob/main/imm-files/Fossilized Hedron.png"
+	            "en": "https://raw.githubusercontent.com/garduu/Immesium—Shards-of-Everywhen/main/imm-files/Fossilized Hedron.png"
 	        }
 	    },
 	    {
@@ -2210,7 +2210,7 @@
 	        "mana_cost": "",
 	        "type": "Land — Desert ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/garduu/Immesium—Shards-of-Everywhen/blob/main/imm-files/A Place Once Forgotten.png"
+	            "en": "https://raw.githubusercontent.com/garduu/Immesium—Shards-of-Everywhen/main/imm-files/A Place Once Forgotten.png"
 	        }
 	    },
 	    {
@@ -2219,7 +2219,7 @@
 	        "mana_cost": "",
 	        "type": "Land",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/garduu/Immesium—Shards-of-Everywhen/blob/main/imm-files/Here Before and After.png"
+	            "en": "https://raw.githubusercontent.com/garduu/Immesium—Shards-of-Everywhen/main/imm-files/Here Before and After.png"
 	        }
 	    },
 	    {
@@ -2228,7 +2228,7 @@
 	        "mana_cost": "",
 	        "type": "Land",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/garduu/Immesium—Shards-of-Everywhen/blob/main/imm-files/Rieze's Testing Chamber.png"
+	            "en": "https://raw.githubusercontent.com/garduu/Immesium—Shards-of-Everywhen/main/imm-files/Rieze's Testing Chamber.png"
 	        }
 	    },
 	    {
@@ -2237,7 +2237,7 @@
 	        "mana_cost": "{1}{R}{W}",
 	        "type": "Legendary Creature — Elf Athlete ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/garduu/Immesium—Shards-of-Everywhen/blob/main/imm-files/Gote, Buzzer Beater.png"
+	            "en": "https://raw.githubusercontent.com/garduu/Immesium—Shards-of-Everywhen/main/imm-files/Gote, Buzzer Beater.png"
 	        }
 	    },
 	    {
@@ -2246,7 +2246,7 @@
 	        "mana_cost": "{1}{G}{U}",
 	        "type": "Creature — Human Doctor ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/garduu/Immesium—Shards-of-Everywhen/blob/main/imm-files/Urgent Carer.png"
+	            "en": "https://raw.githubusercontent.com/garduu/Immesium—Shards-of-Everywhen/main/imm-files/Urgent Carer.png"
 	        }
 	    },
 	    {
@@ -2255,7 +2255,7 @@
 	        "mana_cost": "{3}",
 	        "type": "Artifact — Vehicle ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/garduu/Immesium—Shards-of-Everywhen/blob/main/imm-files/Bigwheel Mk. VII.png"
+	            "en": "https://raw.githubusercontent.com/garduu/Immesium—Shards-of-Everywhen/main/imm-files/Bigwheel Mk. VII.png"
 	        }
 	    },
 	    {
@@ -2264,7 +2264,7 @@
 	        "mana_cost": "{2}",
 	        "type": "Sorcery — Revelation ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/garduu/Immesium—Shards-of-Everywhen/blob/main/imm-files/We Will Be Forgotten.png"
+	            "en": "https://raw.githubusercontent.com/garduu/Immesium—Shards-of-Everywhen/main/imm-files/We Will Be Forgotten.png"
 	        }
 	    },
 	    {
@@ -2273,7 +2273,7 @@
 	        "mana_cost": "{2}",
 	        "type": "Artifact",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/garduu/Immesium—Shards-of-Everywhen/blob/main/imm-files/Fixed Point Gate.png"
+	            "en": "https://raw.githubusercontent.com/garduu/Immesium—Shards-of-Everywhen/main/imm-files/Fixed Point Gate.png"
 	        }
 	    },
 	    {
@@ -2282,7 +2282,7 @@
 	        "mana_cost": "{3}",
 	        "type": "Artifact Creature — Robot Pirate ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/garduu/Immesium—Shards-of-Everywhen/blob/main/imm-files/Synthetic Mergist.png"
+	            "en": "https://raw.githubusercontent.com/garduu/Immesium—Shards-of-Everywhen/main/imm-files/Synthetic Mergist.png"
 	        }
 	    },
 	    {
@@ -2291,7 +2291,7 @@
 	        "mana_cost": "",
 	        "type": "Land — Cave ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/garduu/Immesium—Shards-of-Everywhen/blob/main/imm-files/Where Stories Began.png"
+	            "en": "https://raw.githubusercontent.com/garduu/Immesium—Shards-of-Everywhen/main/imm-files/Where Stories Began.png"
 	        }
 	    },
 	    {
@@ -2300,7 +2300,7 @@
 	        "mana_cost": "{1}{U}{R}",
 	        "type": "Legendary Planeswalker — Gergg ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/garduu/Immesium—Shards-of-Everywhen/blob/main/imm-files/Gergg, Earliest Visionary.png"
+	            "en": "https://raw.githubusercontent.com/garduu/Immesium—Shards-of-Everywhen/main/imm-files/Gergg, Earliest Visionary.png"
 	        }
 	    },
 	    {
@@ -2309,7 +2309,7 @@
 	        "mana_cost": "{X}{B}{B}{G}{G}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/garduu/Immesium—Shards-of-Everywhen/blob/main/imm-files/Cling to the Past.png"
+	            "en": "https://raw.githubusercontent.com/garduu/Immesium—Shards-of-Everywhen/main/imm-files/Cling to the Past.png"
 	        }
 	    },
 	    {
@@ -2318,7 +2318,7 @@
 	        "mana_cost": "{3}{G}{U}",
 	        "type": "Legendary Creature — Elemental ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/garduu/Immesium—Shards-of-Everywhen/blob/main/imm-files/Xintl, the Timekeeper.png"
+	            "en": "https://raw.githubusercontent.com/garduu/Immesium—Shards-of-Everywhen/main/imm-files/Xintl, the Timekeeper.png"
 	        }
 	    },
 	    {
@@ -2327,7 +2327,7 @@
 	        "mana_cost": "{4}{G}{W}",
 	        "type": "Artifact — Vehicle ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/garduu/Immesium—Shards-of-Everywhen/blob/main/imm-files/Chronoshielded Opus.png"
+	            "en": "https://raw.githubusercontent.com/garduu/Immesium—Shards-of-Everywhen/main/imm-files/Chronoshielded Opus.png"
 	        }
 	    },
 	    {
@@ -2336,7 +2336,7 @@
 	        "mana_cost": "{2}{W}{B}",
 	        "type": "Legendary Planeswalker — Spensa ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/garduu/Immesium—Shards-of-Everywhen/blob/main/imm-files/Spensa, Eighth Era Renegade.png"
+	            "en": "https://raw.githubusercontent.com/garduu/Immesium—Shards-of-Everywhen/main/imm-files/Spensa, Eighth Era Renegade.png"
 	        }
 	    },
 	    {
@@ -2345,7 +2345,7 @@
 	        "mana_cost": "{2}{B}{G}",
 	        "type": "Instant — Mission ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/garduu/Immesium—Shards-of-Everywhen/blob/main/imm-files/Bring Down the Ship.png"
+	            "en": "https://raw.githubusercontent.com/garduu/Immesium—Shards-of-Everywhen/main/imm-files/Bring Down the Ship.png"
 	        }
 	    }
 	]
