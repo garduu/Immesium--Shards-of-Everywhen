@@ -2531,7 +2531,7 @@
 		50 A Place Once Forgotten
 		50 Here Before and After
 		50 Rieze's Testing Chamber
-	[CommonSlot(10)]
+	[CommonSlot(11)]
 		50 Hare Raiser
 		50 Third Era Marshals
 		50 Seventh Era Rocketeers
